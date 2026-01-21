@@ -1,0 +1,17 @@
+[3.844s] Invoking command in '/home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge': PYTHONPATH=/home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mwangala/Desktop/__ROS2/install/cv_pegasus_bridge/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge/build --no-deps symlink_data
+[4.278s] running develop
+[4.547s] running egg_info
+[4.547s] writing cv_pegasus_bridge.egg-info/PKG-INFO
+[4.548s] writing dependency_links to cv_pegasus_bridge.egg-info/dependency_links.txt
+[4.549s] writing entry points to cv_pegasus_bridge.egg-info/entry_points.txt
+[4.550s] writing requirements to cv_pegasus_bridge.egg-info/requires.txt
+[4.551s] writing top-level names to cv_pegasus_bridge.egg-info/top_level.txt
+[4.552s] reading manifest file 'cv_pegasus_bridge.egg-info/SOURCES.txt'
+[4.553s] writing manifest file 'cv_pegasus_bridge.egg-info/SOURCES.txt'
+[4.554s] running build_ext
+[4.557s] Creating /home/mwangala/Desktop/__ROS2/install/cv_pegasus_bridge/lib/python3.10/site-packages/cv-pegasus-bridge.egg-link (link to .)
+[4.557s] Installing cv_pegasus_bridge script to /home/mwangala/Desktop/__ROS2/install/cv_pegasus_bridge/lib/cv_pegasus_bridge
+[4.557s] 
+[4.557s] Installed /home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge
+[4.557s] running symlink_data
+[4.648s] Invoked command in '/home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge' returned '0': PYTHONPATH=/home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mwangala/Desktop/__ROS2/install/cv_pegasus_bridge/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge/build --no-deps symlink_data

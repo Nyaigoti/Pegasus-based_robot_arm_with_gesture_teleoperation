@@ -1,0 +1,4 @@
+[console_scripts]
+gui = pegasus_control.gui.gui_node:main
+headless = pegasus_control.headless_node:main
+

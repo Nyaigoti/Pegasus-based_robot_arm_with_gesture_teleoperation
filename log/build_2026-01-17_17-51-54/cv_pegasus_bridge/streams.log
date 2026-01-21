@@ -1,0 +1,20 @@
+[12.586s] Invoking command in '/home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge': PYTHONPATH=/home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mwangala/Desktop/__ROS2/install/cv_pegasus_bridge/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge/build --no-deps symlink_data --force
+[13.440s] running develop
+[13.440s] running egg_info
+[13.442s] writing cv_pegasus_bridge.egg-info/PKG-INFO
+[13.442s] writing dependency_links to cv_pegasus_bridge.egg-info/dependency_links.txt
+[13.442s] writing entry points to cv_pegasus_bridge.egg-info/entry_points.txt
+[13.443s] writing requirements to cv_pegasus_bridge.egg-info/requires.txt
+[13.443s] writing top-level names to cv_pegasus_bridge.egg-info/top_level.txt
+[13.445s] reading manifest file 'cv_pegasus_bridge.egg-info/SOURCES.txt'
+[13.445s] writing manifest file 'cv_pegasus_bridge.egg-info/SOURCES.txt'
+[13.445s] running build_ext
+[13.446s] Creating /home/mwangala/Desktop/__ROS2/install/cv_pegasus_bridge/lib/python3.10/site-packages/cv-pegasus-bridge.egg-link (link to .)
+[13.446s] Installing cv_pegasus_bridge script to /home/mwangala/Desktop/__ROS2/install/cv_pegasus_bridge/lib/cv_pegasus_bridge
+[13.446s] 
+[13.446s] Installed /home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge
+[13.446s] running symlink_data
+[13.446s] symbolically linking /home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge/resource/cv_pegasus_bridge -> /home/mwangala/Desktop/__ROS2/install/cv_pegasus_bridge/share/ament_index/resource_index/packages
+[13.446s] symbolically linking /home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge/package.xml -> /home/mwangala/Desktop/__ROS2/install/cv_pegasus_bridge/share/cv_pegasus_bridge
+[13.446s] symbolically linking /home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge/launch/cv_pegasus_bridge.launch.py -> /home/mwangala/Desktop/__ROS2/install/cv_pegasus_bridge/share/cv_pegasus_bridge/launch
+[13.513s] Invoked command in '/home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge' returned '0': PYTHONPATH=/home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mwangala/Desktop/__ROS2/install/cv_pegasus_bridge/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge/build --no-deps symlink_data --force

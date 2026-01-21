@@ -1,0 +1,37 @@
+[10.139s] Invoking command in '/home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge': PYTHONPATH=/home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mwangala/Desktop/__ROS2/install/cv_pegasus_bridge/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge/build
+[10.401s] running develop
+[10.901s] Removing /home/mwangala/Desktop/__ROS2/install/cv_pegasus_bridge/lib/python3.10/site-packages/cv-pegasus-bridge.egg-link (link to .)
+[10.942s] Invoked command in '/home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge' returned '0': PYTHONPATH=/home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mwangala/Desktop/__ROS2/install/cv_pegasus_bridge/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge/build
+[10.945s] Invoking command in '/home/mwangala/Desktop/__ROS2/src/cv_pegasus_bridge': PYTHONPATH=/home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mwangala/Desktop/__ROS2/install/cv_pegasus_bridge/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/cv_pegasus_bridge build --build-base /home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge/build install --record /home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge/install.log --single-version-externally-managed install_data --force
+[11.194s] running egg_info
+[11.195s] writing ../../build/cv_pegasus_bridge/cv_pegasus_bridge.egg-info/PKG-INFO
+[11.253s] writing dependency_links to ../../build/cv_pegasus_bridge/cv_pegasus_bridge.egg-info/dependency_links.txt
+[11.305s] writing entry points to ../../build/cv_pegasus_bridge/cv_pegasus_bridge.egg-info/entry_points.txt
+[11.387s] writing requirements to ../../build/cv_pegasus_bridge/cv_pegasus_bridge.egg-info/requires.txt
+[11.409s] writing top-level names to ../../build/cv_pegasus_bridge/cv_pegasus_bridge.egg-info/top_level.txt
+[11.412s] reading manifest file '../../build/cv_pegasus_bridge/cv_pegasus_bridge.egg-info/SOURCES.txt'
+[11.500s] writing manifest file '../../build/cv_pegasus_bridge/cv_pegasus_bridge.egg-info/SOURCES.txt'
+[11.520s] running build
+[11.520s] running build_py
+[11.520s] creating /home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge/build
+[11.520s] creating /home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge/build/lib
+[11.520s] creating /home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge/build/lib/cv_pegasus_bridge
+[11.521s] copying cv_pegasus_bridge/__init__.py -> /home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge/build/lib/cv_pegasus_bridge
+[11.521s] copying cv_pegasus_bridge/cv_pegasus_bridge.py -> /home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge/build/lib/cv_pegasus_bridge
+[11.521s] running install
+[11.522s] running install_lib
+[11.524s] creating /home/mwangala/Desktop/__ROS2/install/cv_pegasus_bridge/lib/python3.10/site-packages/cv_pegasus_bridge
+[11.524s] copying /home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge/build/lib/cv_pegasus_bridge/__init__.py -> /home/mwangala/Desktop/__ROS2/install/cv_pegasus_bridge/lib/python3.10/site-packages/cv_pegasus_bridge
+[11.524s] copying /home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge/build/lib/cv_pegasus_bridge/cv_pegasus_bridge.py -> /home/mwangala/Desktop/__ROS2/install/cv_pegasus_bridge/lib/python3.10/site-packages/cv_pegasus_bridge
+[11.525s] byte-compiling /home/mwangala/Desktop/__ROS2/install/cv_pegasus_bridge/lib/python3.10/site-packages/cv_pegasus_bridge/__init__.py to __init__.cpython-310.pyc
+[11.525s] byte-compiling /home/mwangala/Desktop/__ROS2/install/cv_pegasus_bridge/lib/python3.10/site-packages/cv_pegasus_bridge/cv_pegasus_bridge.py to cv_pegasus_bridge.cpython-310.pyc
+[11.527s] running install_data
+[11.528s] copying resource/cv_pegasus_bridge -> /home/mwangala/Desktop/__ROS2/install/cv_pegasus_bridge/share/ament_index/resource_index/packages
+[11.528s] copying package.xml -> /home/mwangala/Desktop/__ROS2/install/cv_pegasus_bridge/share/cv_pegasus_bridge
+[11.528s] copying launch/cv_pegasus_bridge.launch.py -> /home/mwangala/Desktop/__ROS2/install/cv_pegasus_bridge/share/cv_pegasus_bridge/launch
+[11.528s] running install_egg_info
+[11.532s] Copying ../../build/cv_pegasus_bridge/cv_pegasus_bridge.egg-info to /home/mwangala/Desktop/__ROS2/install/cv_pegasus_bridge/lib/python3.10/site-packages/cv_pegasus_bridge-0.0.0-py3.10.egg-info
+[11.533s] running install_scripts
+[11.565s] Installing cv_pegasus_bridge script to /home/mwangala/Desktop/__ROS2/install/cv_pegasus_bridge/lib/cv_pegasus_bridge
+[11.674s] writing list of installed files to '/home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge/install.log'
+[11.721s] Invoked command in '/home/mwangala/Desktop/__ROS2/src/cv_pegasus_bridge' returned '0': PYTHONPATH=/home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mwangala/Desktop/__ROS2/install/cv_pegasus_bridge/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/cv_pegasus_bridge build --build-base /home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge/build install --record /home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge/install.log --single-version-externally-managed install_data --force

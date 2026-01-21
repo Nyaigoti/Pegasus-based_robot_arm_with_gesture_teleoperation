@@ -1,0 +1,10 @@
+/home/mwangala/Desktop/__ROS2/build/compressed_image_transport/CMakeFiles/uninstall.dir
+/home/mwangala/Desktop/__ROS2/build/compressed_image_transport/CMakeFiles/compressed_image_transport_uninstall.dir
+/home/mwangala/Desktop/__ROS2/build/compressed_image_transport/CMakeFiles/compressed_image_transport.dir
+/home/mwangala/Desktop/__ROS2/build/compressed_image_transport/CMakeFiles/test.dir
+/home/mwangala/Desktop/__ROS2/build/compressed_image_transport/CMakeFiles/edit_cache.dir
+/home/mwangala/Desktop/__ROS2/build/compressed_image_transport/CMakeFiles/rebuild_cache.dir
+/home/mwangala/Desktop/__ROS2/build/compressed_image_transport/CMakeFiles/list_install_components.dir
+/home/mwangala/Desktop/__ROS2/build/compressed_image_transport/CMakeFiles/install.dir
+/home/mwangala/Desktop/__ROS2/build/compressed_image_transport/CMakeFiles/install/local.dir
+/home/mwangala/Desktop/__ROS2/build/compressed_image_transport/CMakeFiles/install/strip.dir

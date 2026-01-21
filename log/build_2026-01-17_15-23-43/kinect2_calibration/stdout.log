@@ -1,0 +1,21 @@
+[ 50%] [32mBuilding CXX object CMakeFiles/kinect2_calibration_node.dir/src/kinect2_calibration.cpp.o[0m
+[100%] [32m[1mLinking CXX executable kinect2_calibration_node[0m
+[100%] Built target kinect2_calibration_node
+-- Install configuration: ""
+-- Installing: /home/mwangala/Desktop/__ROS2/install/kinect2_calibration/lib/kinect2_calibration/kinect2_calibration_node
+-- Set runtime path of "/home/mwangala/Desktop/__ROS2/install/kinect2_calibration/lib/kinect2_calibration/kinect2_calibration_node" to ""
+-- Installing: /home/mwangala/Desktop/__ROS2/install/kinect2_calibration/share/ament_index/resource_index/package_run_dependencies/kinect2_calibration
+-- Installing: /home/mwangala/Desktop/__ROS2/install/kinect2_calibration/share/ament_index/resource_index/parent_prefix_path/kinect2_calibration
+-- Installing: /home/mwangala/Desktop/__ROS2/install/kinect2_calibration/share/kinect2_calibration/environment/ament_prefix_path.sh
+-- Installing: /home/mwangala/Desktop/__ROS2/install/kinect2_calibration/share/kinect2_calibration/environment/ament_prefix_path.dsv
+-- Installing: /home/mwangala/Desktop/__ROS2/install/kinect2_calibration/share/kinect2_calibration/environment/path.sh
+-- Installing: /home/mwangala/Desktop/__ROS2/install/kinect2_calibration/share/kinect2_calibration/environment/path.dsv
+-- Installing: /home/mwangala/Desktop/__ROS2/install/kinect2_calibration/share/kinect2_calibration/local_setup.bash
+-- Installing: /home/mwangala/Desktop/__ROS2/install/kinect2_calibration/share/kinect2_calibration/local_setup.sh
+-- Installing: /home/mwangala/Desktop/__ROS2/install/kinect2_calibration/share/kinect2_calibration/local_setup.zsh
+-- Installing: /home/mwangala/Desktop/__ROS2/install/kinect2_calibration/share/kinect2_calibration/local_setup.dsv
+-- Installing: /home/mwangala/Desktop/__ROS2/install/kinect2_calibration/share/kinect2_calibration/package.dsv
+-- Installing: /home/mwangala/Desktop/__ROS2/install/kinect2_calibration/share/ament_index/resource_index/packages/kinect2_calibration
+-- Installing: /home/mwangala/Desktop/__ROS2/install/kinect2_calibration/share/kinect2_calibration/cmake/kinect2_calibrationConfig.cmake
+-- Installing: /home/mwangala/Desktop/__ROS2/install/kinect2_calibration/share/kinect2_calibration/cmake/kinect2_calibrationConfig-version.cmake
+-- Installing: /home/mwangala/Desktop/__ROS2/install/kinect2_calibration/share/kinect2_calibration/package.xml

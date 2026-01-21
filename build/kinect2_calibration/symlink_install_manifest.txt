@@ -1,0 +1,16 @@
+/home/mwangala/Desktop/__ROS2/install/kinect2_calibration/lib/kinect2_calibration/kinect2_calibration_node
+/home/mwangala/Desktop/__ROS2/install/kinect2_calibration/share/ament_index/resource_index/package_run_dependencies/kinect2_calibration
+/home/mwangala/Desktop/__ROS2/install/kinect2_calibration/share/ament_index/resource_index/parent_prefix_path/kinect2_calibration
+/home/mwangala/Desktop/__ROS2/install/kinect2_calibration/share/kinect2_calibration/environment/ament_prefix_path.sh
+/home/mwangala/Desktop/__ROS2/install/kinect2_calibration/share/kinect2_calibration/environment/ament_prefix_path.dsv
+/home/mwangala/Desktop/__ROS2/install/kinect2_calibration/share/kinect2_calibration/environment/path.sh
+/home/mwangala/Desktop/__ROS2/install/kinect2_calibration/share/kinect2_calibration/environment/path.dsv
+/home/mwangala/Desktop/__ROS2/install/kinect2_calibration/share/kinect2_calibration/local_setup.bash
+/home/mwangala/Desktop/__ROS2/install/kinect2_calibration/share/kinect2_calibration/local_setup.sh
+/home/mwangala/Desktop/__ROS2/install/kinect2_calibration/share/kinect2_calibration/local_setup.zsh
+/home/mwangala/Desktop/__ROS2/install/kinect2_calibration/share/kinect2_calibration/local_setup.dsv
+/home/mwangala/Desktop/__ROS2/install/kinect2_calibration/share/kinect2_calibration/package.dsv
+/home/mwangala/Desktop/__ROS2/install/kinect2_calibration/share/ament_index/resource_index/packages/kinect2_calibration
+/home/mwangala/Desktop/__ROS2/install/kinect2_calibration/share/kinect2_calibration/cmake/kinect2_calibrationConfig.cmake
+/home/mwangala/Desktop/__ROS2/install/kinect2_calibration/share/kinect2_calibration/cmake/kinect2_calibrationConfig-version.cmake
+/home/mwangala/Desktop/__ROS2/install/kinect2_calibration/share/kinect2_calibration/package.xml

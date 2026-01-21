@@ -1,0 +1,56 @@
+[0.071s] Invoking command in '/home/mwangala/Desktop/__ROS2/build/kinect2_registration': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_franka_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_pegasus_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws/install/cv_franka_bridge:/opt/ros/humble /usr/bin/cmake /home/mwangala/Desktop/__ROS2/src/kinect2_registration -DCMAKE_INSTALL_PREFIX=/home/mwangala/Desktop/__ROS2/install/kinect2_registration
+[0.674s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.674s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.674s] -- Found rclcpp: 16.0.12 (/opt/ros/humble/share/rclcpp/cmake)
+[0.674s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.674s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.674s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.674s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.674s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.674s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.674s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.674s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.675s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[0.675s] -- CPU based depth registration enabled
+[0.675s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.923s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.923s] -- Configured cppcheck include dirs: /home/mwangala/Desktop/__ROS2/src/kinect2_registration/src/;/home/mwangala/Desktop/__ROS2/src/kinect2_registration/include/internal;/home/mwangala/Desktop/__ROS2/src/kinect2_registration/include/
+[0.924s] -- Configured cppcheck exclude dirs and/or files: 
+[0.926s] -- Added test 'lint_cmake' to check CMake code style
+[0.928s] -- Added test 'uncrustify' to check C / C++ code style
+[0.929s] -- Configured uncrustify additional arguments: 
+[0.929s] -- Added test 'xmllint' to check XML markup files
+[0.933s] -- Configuring done
+[1.014s] -- Generating done
+[1.022s] -- Build files have been written to: /home/mwangala/Desktop/__ROS2/build/kinect2_registration
+[1.038s] Invoked command in '/home/mwangala/Desktop/__ROS2/build/kinect2_registration' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_franka_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_pegasus_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws/install/cv_franka_bridge:/opt/ros/humble /usr/bin/cmake /home/mwangala/Desktop/__ROS2/src/kinect2_registration -DCMAKE_INSTALL_PREFIX=/home/mwangala/Desktop/__ROS2/install/kinect2_registration
+[1.038s] Invoking command in '/home/mwangala/Desktop/__ROS2/build/kinect2_registration': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_franka_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_pegasus_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws/install/cv_franka_bridge:/opt/ros/humble /usr/bin/cmake --build /home/mwangala/Desktop/__ROS2/build/kinect2_registration -- -j8 -l8
+[1.110s] [35m[1mConsolidate compiler generated dependencies of target kinect2_registration[0m
+[1.453s] [100%] Built target kinect2_registration
+[1.660s] Invoked command in '/home/mwangala/Desktop/__ROS2/build/kinect2_registration' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_franka_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_pegasus_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws/install/cv_franka_bridge:/opt/ros/humble /usr/bin/cmake --build /home/mwangala/Desktop/__ROS2/build/kinect2_registration -- -j8 -l8
+[1.663s] Invoking command in '/home/mwangala/Desktop/__ROS2/build/kinect2_registration': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_franka_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_pegasus_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws/install/cv_franka_bridge:/opt/ros/humble /usr/bin/cmake --install /home/mwangala/Desktop/__ROS2/build/kinect2_registration
+[1.677s] -- Install configuration: ""
+[1.677s] -- Execute custom install script
+[1.678s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/kinect2_registration/include/kinect2_registration/kinect2_console.h
+[1.678s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/kinect2_registration/include/kinect2_registration/kinect2_registration.h
+[1.678s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/kinect2_registration/share/kinect2_registration/environment/library_path.sh
+[1.678s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/kinect2_registration/share/kinect2_registration/environment/library_path.dsv
+[1.678s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/kinect2_registration/share/ament_index/resource_index/package_run_dependencies/kinect2_registration
+[1.678s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/kinect2_registration/share/ament_index/resource_index/parent_prefix_path/kinect2_registration
+[1.678s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/kinect2_registration/share/kinect2_registration/environment/ament_prefix_path.sh
+[1.678s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/kinect2_registration/share/kinect2_registration/environment/ament_prefix_path.dsv
+[1.678s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/kinect2_registration/share/kinect2_registration/environment/path.sh
+[1.678s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/kinect2_registration/share/kinect2_registration/environment/path.dsv
+[1.678s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/kinect2_registration/share/kinect2_registration/local_setup.bash
+[1.681s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/kinect2_registration/share/kinect2_registration/local_setup.sh
+[1.682s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/kinect2_registration/share/kinect2_registration/local_setup.zsh
+[1.682s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/kinect2_registration/share/kinect2_registration/local_setup.dsv
+[1.682s] -- Symlinking: /home/mwangala/Desktop/__ROS2/install/kinect2_registration/share/kinect2_registration/package.dsv
+[1.694s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/kinect2_registration/share/ament_index/resource_index/packages/kinect2_registration
+[1.694s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/kinect2_registration/share/kinect2_registration/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.694s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/kinect2_registration/share/kinect2_registration/cmake/ament_cmake_export_libraries-extras.cmake
+[1.694s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/kinect2_registration/share/kinect2_registration/cmake/kinect2_registrationConfig.cmake
+[1.694s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/kinect2_registration/share/kinect2_registration/cmake/kinect2_registrationConfig-version.cmake
+[1.694s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/kinect2_registration/share/kinect2_registration/package.xml
+[1.694s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/kinect2_registration/lib/libkinect2_registration.a
+[1.728s] Invoked command in '/home/mwangala/Desktop/__ROS2/build/kinect2_registration' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_franka_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_pegasus_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws/install/cv_franka_bridge:/opt/ros/humble /usr/bin/cmake --install /home/mwangala/Desktop/__ROS2/build/kinect2_registration

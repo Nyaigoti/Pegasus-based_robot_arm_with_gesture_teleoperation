@@ -1,0 +1,51 @@
+[10.134s] Invoking command in '/home/mwangala/Desktop/__ROS2/build/pegasus_control': PYTHONPATH=/home/mwangala/Desktop/__ROS2/build/pegasus_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/mwangala/Desktop/__ROS2/build/pegasus_control/build
+[10.937s] running develop
+[10.937s] Removing /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages/pegasus-control.egg-link (link to .)
+[10.962s] Invoked command in '/home/mwangala/Desktop/__ROS2/build/pegasus_control' returned '0': PYTHONPATH=/home/mwangala/Desktop/__ROS2/build/pegasus_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/mwangala/Desktop/__ROS2/build/pegasus_control/build
+[10.965s] Invoking command in '/home/mwangala/Desktop/__ROS2/src/pegasus_control': PYTHONPATH=/home/mwangala/Desktop/__ROS2/build/pegasus_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pegasus_control build --build-base /home/mwangala/Desktop/__ROS2/build/pegasus_control/build install --record /home/mwangala/Desktop/__ROS2/build/pegasus_control/install.log --single-version-externally-managed install_data --force
+[11.716s] running egg_info
+[11.716s] writing ../../build/pegasus_control/pegasus_control.egg-info/PKG-INFO
+[11.717s] writing dependency_links to ../../build/pegasus_control/pegasus_control.egg-info/dependency_links.txt
+[11.717s] writing entry points to ../../build/pegasus_control/pegasus_control.egg-info/entry_points.txt
+[11.717s] writing requirements to ../../build/pegasus_control/pegasus_control.egg-info/requires.txt
+[11.717s] writing top-level names to ../../build/pegasus_control/pegasus_control.egg-info/top_level.txt
+[11.718s] reading manifest file '../../build/pegasus_control/pegasus_control.egg-info/SOURCES.txt'
+[11.718s] writing manifest file '../../build/pegasus_control/pegasus_control.egg-info/SOURCES.txt'
+[11.718s] running build
+[11.718s] running build_py
+[11.718s] creating /home/mwangala/Desktop/__ROS2/build/pegasus_control/build
+[11.719s] creating /home/mwangala/Desktop/__ROS2/build/pegasus_control/build/lib
+[11.719s] creating /home/mwangala/Desktop/__ROS2/build/pegasus_control/build/lib/pegasus_control
+[11.719s] copying pegasus_control/__init__.py -> /home/mwangala/Desktop/__ROS2/build/pegasus_control/build/lib/pegasus_control
+[11.719s] copying pegasus_control/headless_node.py -> /home/mwangala/Desktop/__ROS2/build/pegasus_control/build/lib/pegasus_control
+[11.719s] copying pegasus_control/pegasus_commander.py -> /home/mwangala/Desktop/__ROS2/build/pegasus_control/build/lib/pegasus_control
+[11.719s] copying pegasus_control/socket_server.py -> /home/mwangala/Desktop/__ROS2/build/pegasus_control/build/lib/pegasus_control
+[11.719s] creating /home/mwangala/Desktop/__ROS2/build/pegasus_control/build/lib/pegasus_control/gui
+[11.720s] copying pegasus_control/gui/__init__.py -> /home/mwangala/Desktop/__ROS2/build/pegasus_control/build/lib/pegasus_control/gui
+[11.721s] copying pegasus_control/gui/gui_node.py -> /home/mwangala/Desktop/__ROS2/build/pegasus_control/build/lib/pegasus_control/gui
+[11.721s] running install
+[11.721s] running install_lib
+[11.721s] creating /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages/pegasus_control
+[11.721s] copying /home/mwangala/Desktop/__ROS2/build/pegasus_control/build/lib/pegasus_control/__init__.py -> /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages/pegasus_control
+[11.721s] creating /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages/pegasus_control/gui
+[11.721s] copying /home/mwangala/Desktop/__ROS2/build/pegasus_control/build/lib/pegasus_control/gui/__init__.py -> /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages/pegasus_control/gui
+[11.722s] copying /home/mwangala/Desktop/__ROS2/build/pegasus_control/build/lib/pegasus_control/gui/gui_node.py -> /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages/pegasus_control/gui
+[11.722s] copying /home/mwangala/Desktop/__ROS2/build/pegasus_control/build/lib/pegasus_control/headless_node.py -> /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages/pegasus_control
+[11.722s] copying /home/mwangala/Desktop/__ROS2/build/pegasus_control/build/lib/pegasus_control/pegasus_commander.py -> /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages/pegasus_control
+[11.722s] copying /home/mwangala/Desktop/__ROS2/build/pegasus_control/build/lib/pegasus_control/socket_server.py -> /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages/pegasus_control
+[11.722s] byte-compiling /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages/pegasus_control/__init__.py to __init__.cpython-310.pyc
+[11.722s] byte-compiling /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages/pegasus_control/gui/__init__.py to __init__.cpython-310.pyc
+[11.722s] byte-compiling /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages/pegasus_control/gui/gui_node.py to gui_node.cpython-310.pyc
+[11.744s] byte-compiling /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages/pegasus_control/headless_node.py to headless_node.cpython-310.pyc
+[11.745s] byte-compiling /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages/pegasus_control/pegasus_commander.py to pegasus_commander.cpython-310.pyc
+[11.750s] byte-compiling /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages/pegasus_control/socket_server.py to socket_server.cpython-310.pyc
+[11.752s] running install_data
+[11.753s] copying resource/pegasus_control -> /home/mwangala/Desktop/__ROS2/install/pegasus_control/share/ament_index/resource_index/packages
+[11.753s] copying package.xml -> /home/mwangala/Desktop/__ROS2/install/pegasus_control/share/pegasus_control
+[11.753s] running install_egg_info
+[11.754s] Copying ../../build/pegasus_control/pegasus_control.egg-info to /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages/pegasus_control-0.0.1-py3.10.egg-info
+[11.754s] running install_scripts
+[11.772s] Installing gui script to /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/pegasus_control
+[11.948s] Installing headless script to /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/pegasus_control
+[11.982s] writing list of installed files to '/home/mwangala/Desktop/__ROS2/build/pegasus_control/install.log'
+[12.034s] Invoked command in '/home/mwangala/Desktop/__ROS2/src/pegasus_control' returned '0': PYTHONPATH=/home/mwangala/Desktop/__ROS2/build/pegasus_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pegasus_control build --build-base /home/mwangala/Desktop/__ROS2/build/pegasus_control/build install --record /home/mwangala/Desktop/__ROS2/build/pegasus_control/install.log --single-version-externally-managed install_data --force

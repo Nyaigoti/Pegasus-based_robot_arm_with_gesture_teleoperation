@@ -1,0 +1,1 @@
+/home/mwangala/Desktop/__ROS2/build/hand_interfaces/rosidl_typesupport_fastrtps_c/hand_interfaces/msg/detail/finger_data__rosidl_typesupport_fastrtps_c.h

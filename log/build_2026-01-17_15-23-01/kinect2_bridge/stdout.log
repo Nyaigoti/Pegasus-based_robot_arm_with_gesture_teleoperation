@@ -1,0 +1,27 @@
+[ 50%] [32mBuilding CXX object CMakeFiles/kinect2_bridge_node.dir/src/kinect2_bridge.cpp.o[0m
+[100%] [32m[1mLinking CXX executable kinect2_bridge_node[0m
+[100%] Built target kinect2_bridge_node
+-- Install configuration: ""
+-- Installing: /home/mwangala/Desktop/__ROS2/install/kinect2_bridge/lib/kinect2_bridge/kinect2_bridge_node
+-- Set runtime path of "/home/mwangala/Desktop/__ROS2/install/kinect2_bridge/lib/kinect2_bridge/kinect2_bridge_node" to ""
+-- Installing: /home/mwangala/Desktop/__ROS2/install/kinect2_bridge/include/kinect2_bridge
+-- Installing: /home/mwangala/Desktop/__ROS2/install/kinect2_bridge/include/kinect2_bridge/kinect2_definitions.h
+-- Installing: /home/mwangala/Desktop/__ROS2/install/kinect2_bridge/share/kinect2_bridge//launch
+-- Installing: /home/mwangala/Desktop/__ROS2/install/kinect2_bridge/share/kinect2_bridge//launch/kinect2_bridge_launch.yaml
+-- Installing: /home/mwangala/Desktop/__ROS2/install/kinect2_bridge/share/kinect2_bridge//launch/rtabmap.launch.py
+-- Installing: /home/mwangala/Desktop/__ROS2/install/kinect2_bridge/share/ament_index/resource_index/package_run_dependencies/kinect2_bridge
+-- Installing: /home/mwangala/Desktop/__ROS2/install/kinect2_bridge/share/ament_index/resource_index/parent_prefix_path/kinect2_bridge
+-- Installing: /home/mwangala/Desktop/__ROS2/install/kinect2_bridge/share/kinect2_bridge/environment/ament_prefix_path.sh
+-- Installing: /home/mwangala/Desktop/__ROS2/install/kinect2_bridge/share/kinect2_bridge/environment/ament_prefix_path.dsv
+-- Installing: /home/mwangala/Desktop/__ROS2/install/kinect2_bridge/share/kinect2_bridge/environment/path.sh
+-- Installing: /home/mwangala/Desktop/__ROS2/install/kinect2_bridge/share/kinect2_bridge/environment/path.dsv
+-- Installing: /home/mwangala/Desktop/__ROS2/install/kinect2_bridge/share/kinect2_bridge/local_setup.bash
+-- Installing: /home/mwangala/Desktop/__ROS2/install/kinect2_bridge/share/kinect2_bridge/local_setup.sh
+-- Installing: /home/mwangala/Desktop/__ROS2/install/kinect2_bridge/share/kinect2_bridge/local_setup.zsh
+-- Installing: /home/mwangala/Desktop/__ROS2/install/kinect2_bridge/share/kinect2_bridge/local_setup.dsv
+-- Installing: /home/mwangala/Desktop/__ROS2/install/kinect2_bridge/share/kinect2_bridge/package.dsv
+-- Installing: /home/mwangala/Desktop/__ROS2/install/kinect2_bridge/share/ament_index/resource_index/packages/kinect2_bridge
+-- Installing: /home/mwangala/Desktop/__ROS2/install/kinect2_bridge/share/kinect2_bridge/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Installing: /home/mwangala/Desktop/__ROS2/install/kinect2_bridge/share/kinect2_bridge/cmake/kinect2_bridgeConfig.cmake
+-- Installing: /home/mwangala/Desktop/__ROS2/install/kinect2_bridge/share/kinect2_bridge/cmake/kinect2_bridgeConfig-version.cmake
+-- Installing: /home/mwangala/Desktop/__ROS2/install/kinect2_bridge/share/kinect2_bridge/package.xml

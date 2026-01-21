@@ -1,0 +1,22 @@
+[2.660s] Invoking command in '/home/mwangala/Desktop/__ROS2/src/pegasus_control': PYTHONPATH=/home/mwangala/Desktop/__ROS2/build/pegasus_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pegasus_control build --build-base /home/mwangala/Desktop/__ROS2/build/pegasus_control/build install --record /home/mwangala/Desktop/__ROS2/build/pegasus_control/install.log --single-version-externally-managed install_data
+[2.884s] running egg_info
+[2.885s] writing ../../build/pegasus_control/pegasus_control.egg-info/PKG-INFO
+[2.885s] writing dependency_links to ../../build/pegasus_control/pegasus_control.egg-info/dependency_links.txt
+[2.885s] writing entry points to ../../build/pegasus_control/pegasus_control.egg-info/entry_points.txt
+[2.885s] writing requirements to ../../build/pegasus_control/pegasus_control.egg-info/requires.txt
+[2.885s] writing top-level names to ../../build/pegasus_control/pegasus_control.egg-info/top_level.txt
+[2.887s] reading manifest file '../../build/pegasus_control/pegasus_control.egg-info/SOURCES.txt'
+[2.888s] writing manifest file '../../build/pegasus_control/pegasus_control.egg-info/SOURCES.txt'
+[2.889s] running build
+[2.889s] running build_py
+[2.889s] running install
+[2.889s] running install_lib
+[2.892s] running install_data
+[2.893s] running install_egg_info
+[2.893s] removing '/home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages/pegasus_control-0.0.1-py3.10.egg-info' (and everything under it)
+[2.893s] Copying ../../build/pegasus_control/pegasus_control.egg-info to /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages/pegasus_control-0.0.1-py3.10.egg-info
+[2.895s] running install_scripts
+[2.915s] Installing gui script to /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/pegasus_control
+[2.916s] Installing headless script to /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/pegasus_control
+[2.916s] writing list of installed files to '/home/mwangala/Desktop/__ROS2/build/pegasus_control/install.log'
+[3.009s] Invoked command in '/home/mwangala/Desktop/__ROS2/src/pegasus_control' returned '0': PYTHONPATH=/home/mwangala/Desktop/__ROS2/build/pegasus_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pegasus_control build --build-base /home/mwangala/Desktop/__ROS2/build/pegasus_control/build install --record /home/mwangala/Desktop/__ROS2/build/pegasus_control/install.log --single-version-externally-managed install_data

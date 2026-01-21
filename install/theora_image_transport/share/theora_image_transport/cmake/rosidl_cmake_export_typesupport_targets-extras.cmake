@@ -1,0 +1,1 @@
+/home/mwangala/Desktop/__ROS2/build/theora_image_transport/rosidl_cmake/rosidl_cmake_export_typesupport_targets-extras.cmake

@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+../../build/cv_pegasus_bridge/cv_pegasus_bridge.egg-info/PKG-INFO
+../../build/cv_pegasus_bridge/cv_pegasus_bridge.egg-info/SOURCES.txt
+../../build/cv_pegasus_bridge/cv_pegasus_bridge.egg-info/dependency_links.txt
+../../build/cv_pegasus_bridge/cv_pegasus_bridge.egg-info/entry_points.txt
+../../build/cv_pegasus_bridge/cv_pegasus_bridge.egg-info/requires.txt
+../../build/cv_pegasus_bridge/cv_pegasus_bridge.egg-info/top_level.txt
+../../build/cv_pegasus_bridge/cv_pegasus_bridge.egg-info/zip-safe
+cv_pegasus_bridge/__init__.py
+cv_pegasus_bridge/cv_pegasus_bridge.py
+launch/cv_pegasus_bridge.launch.py
+resource/cv_pegasus_bridge

@@ -1,0 +1,25 @@
+[100%] Built target compressed_depth_image_transport
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/mwangala/Desktop/__ROS2/install/compressed_depth_image_transport/lib/libcompressed_depth_image_transport.so
+-- Symlinking: /home/mwangala/Desktop/__ROS2/install/compressed_depth_image_transport/include/compressed_depth_image_transport/codec.h
+-- Symlinking: /home/mwangala/Desktop/__ROS2/install/compressed_depth_image_transport/include/compressed_depth_image_transport/compressed_depth_publisher.h
+-- Symlinking: /home/mwangala/Desktop/__ROS2/install/compressed_depth_image_transport/include/compressed_depth_image_transport/compressed_depth_subscriber.h
+-- Symlinking: /home/mwangala/Desktop/__ROS2/install/compressed_depth_image_transport/include/compressed_depth_image_transport/compression_common.h
+-- Symlinking: /home/mwangala/Desktop/__ROS2/install/compressed_depth_image_transport/share/compressed_depth_image_transport//compressed_depth_plugins.xml
+-- Symlinking: /home/mwangala/Desktop/__ROS2/install/compressed_depth_image_transport/share/ament_index/resource_index/package_run_dependencies/compressed_depth_image_transport
+-- Symlinking: /home/mwangala/Desktop/__ROS2/install/compressed_depth_image_transport/share/ament_index/resource_index/parent_prefix_path/compressed_depth_image_transport
+-- Symlinking: /home/mwangala/Desktop/__ROS2/install/compressed_depth_image_transport/share/compressed_depth_image_transport/environment/ament_prefix_path.sh
+-- Symlinking: /home/mwangala/Desktop/__ROS2/install/compressed_depth_image_transport/share/compressed_depth_image_transport/environment/ament_prefix_path.dsv
+-- Symlinking: /home/mwangala/Desktop/__ROS2/install/compressed_depth_image_transport/share/compressed_depth_image_transport/environment/path.sh
+-- Symlinking: /home/mwangala/Desktop/__ROS2/install/compressed_depth_image_transport/share/compressed_depth_image_transport/environment/path.dsv
+-- Symlinking: /home/mwangala/Desktop/__ROS2/install/compressed_depth_image_transport/share/compressed_depth_image_transport/local_setup.bash
+-- Symlinking: /home/mwangala/Desktop/__ROS2/install/compressed_depth_image_transport/share/compressed_depth_image_transport/local_setup.sh
+-- Symlinking: /home/mwangala/Desktop/__ROS2/install/compressed_depth_image_transport/share/compressed_depth_image_transport/local_setup.zsh
+-- Symlinking: /home/mwangala/Desktop/__ROS2/install/compressed_depth_image_transport/share/compressed_depth_image_transport/local_setup.dsv
+-- Symlinking: /home/mwangala/Desktop/__ROS2/install/compressed_depth_image_transport/share/compressed_depth_image_transport/package.dsv
+-- Symlinking: /home/mwangala/Desktop/__ROS2/install/compressed_depth_image_transport/share/ament_index/resource_index/packages/compressed_depth_image_transport
+-- Symlinking: /home/mwangala/Desktop/__ROS2/install/compressed_depth_image_transport/share/ament_index/resource_index/image_transport__pluginlib__plugin/compressed_depth_image_transport
+-- Symlinking: /home/mwangala/Desktop/__ROS2/install/compressed_depth_image_transport/share/compressed_depth_image_transport/cmake/compressed_depth_image_transportConfig.cmake
+-- Symlinking: /home/mwangala/Desktop/__ROS2/install/compressed_depth_image_transport/share/compressed_depth_image_transport/cmake/compressed_depth_image_transportConfig-version.cmake
+-- Symlinking: /home/mwangala/Desktop/__ROS2/install/compressed_depth_image_transport/share/compressed_depth_image_transport/package.xml

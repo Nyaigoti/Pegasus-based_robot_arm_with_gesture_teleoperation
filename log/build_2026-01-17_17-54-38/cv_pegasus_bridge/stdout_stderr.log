@@ -1,0 +1,24 @@
+running develop
+running egg_info
+creating cv_pegasus_bridge.egg-info
+writing cv_pegasus_bridge.egg-info/PKG-INFO
+writing dependency_links to cv_pegasus_bridge.egg-info/dependency_links.txt
+writing entry points to cv_pegasus_bridge.egg-info/entry_points.txt
+writing requirements to cv_pegasus_bridge.egg-info/requires.txt
+writing top-level names to cv_pegasus_bridge.egg-info/top_level.txt
+writing manifest file 'cv_pegasus_bridge.egg-info/SOURCES.txt'
+reading manifest file 'cv_pegasus_bridge.egg-info/SOURCES.txt'
+writing manifest file 'cv_pegasus_bridge.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/mwangala/Desktop/__ROS2/install/cv_pegasus_bridge/lib/python3.10/site-packages/cv-pegasus-bridge.egg-link (link to .)
+Installing cv_pegasus_bridge script to /home/mwangala/Desktop/__ROS2/install/cv_pegasus_bridge/lib/cv_pegasus_bridge
+
+Installed /home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge
+running symlink_data
+creating /home/mwangala/Desktop/__ROS2/install/cv_pegasus_bridge/share/ament_index
+creating /home/mwangala/Desktop/__ROS2/install/cv_pegasus_bridge/share/ament_index/resource_index
+creating /home/mwangala/Desktop/__ROS2/install/cv_pegasus_bridge/share/ament_index/resource_index/packages
+symbolically linking /home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge/resource/cv_pegasus_bridge -> /home/mwangala/Desktop/__ROS2/install/cv_pegasus_bridge/share/ament_index/resource_index/packages
+symbolically linking /home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge/package.xml -> /home/mwangala/Desktop/__ROS2/install/cv_pegasus_bridge/share/cv_pegasus_bridge
+creating /home/mwangala/Desktop/__ROS2/install/cv_pegasus_bridge/share/cv_pegasus_bridge/launch
+symbolically linking /home/mwangala/Desktop/__ROS2/build/cv_pegasus_bridge/launch/cv_pegasus_bridge.launch.py -> /home/mwangala/Desktop/__ROS2/install/cv_pegasus_bridge/share/cv_pegasus_bridge/launch

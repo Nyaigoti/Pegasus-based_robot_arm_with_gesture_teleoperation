@@ -1,0 +1,1 @@
+/home/mwangala/Desktop/__ROS2/build/hand_interfaces/rosidl_typesupport_introspection_c/hand_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h

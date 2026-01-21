@@ -1,0 +1,3 @@
+[console_scripts]
+cv_pegasus_bridge = cv_pegasus_bridge.cv_pegasus_bridge:main
+

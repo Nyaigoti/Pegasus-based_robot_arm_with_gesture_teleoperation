@@ -1,0 +1,9 @@
+/home/mwangala/Desktop/__ROS2/build/image_transport_plugins/CMakeFiles/uninstall.dir
+/home/mwangala/Desktop/__ROS2/build/image_transport_plugins/CMakeFiles/image_transport_plugins_uninstall.dir
+/home/mwangala/Desktop/__ROS2/build/image_transport_plugins/CMakeFiles/test.dir
+/home/mwangala/Desktop/__ROS2/build/image_transport_plugins/CMakeFiles/edit_cache.dir
+/home/mwangala/Desktop/__ROS2/build/image_transport_plugins/CMakeFiles/rebuild_cache.dir
+/home/mwangala/Desktop/__ROS2/build/image_transport_plugins/CMakeFiles/list_install_components.dir
+/home/mwangala/Desktop/__ROS2/build/image_transport_plugins/CMakeFiles/install.dir
+/home/mwangala/Desktop/__ROS2/build/image_transport_plugins/CMakeFiles/install/local.dir
+/home/mwangala/Desktop/__ROS2/build/image_transport_plugins/CMakeFiles/install/strip.dir

@@ -1,0 +1,1 @@
+/home/mwangala/Desktop/__ROS2/build/hand_interfaces/ament_cmake_core/hand_interfacesConfig.cmake

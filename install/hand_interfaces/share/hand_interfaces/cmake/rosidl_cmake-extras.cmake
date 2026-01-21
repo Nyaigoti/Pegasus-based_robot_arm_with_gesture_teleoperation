@@ -1,0 +1,1 @@
+/home/mwangala/Desktop/__ROS2/build/hand_interfaces/rosidl_cmake/rosidl_cmake-extras.cmake

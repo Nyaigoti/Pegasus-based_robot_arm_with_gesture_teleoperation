@@ -1,0 +1,24 @@
+[0.851s] Invoking command in '/home/mwangala/Desktop/__ROS2/build/handcv': AMENT_PREFIX_PATH=/home/mwangala/Desktop/__ROS2/install/hand_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/mwangala/Desktop/__ROS2/install/hand_interfaces:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/mwangala/Desktop/__ROS2/install/hand_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/mwangala/Desktop/__ROS2/build/handcv/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mwangala/Desktop/__ROS2/install/handcv/lib/python3.10/site-packages:/home/mwangala/Desktop/__ROS2/install/hand_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mwangala/Desktop/__ROS2/build/handcv/build --no-deps symlink_data --force
+[1.085s] running develop
+[1.226s] running egg_info
+[1.226s] writing handcv.egg-info/PKG-INFO
+[1.241s] writing dependency_links to handcv.egg-info/dependency_links.txt
+[1.241s] writing entry points to handcv.egg-info/entry_points.txt
+[1.241s] writing requirements to handcv.egg-info/requires.txt
+[1.242s] writing top-level names to handcv.egg-info/top_level.txt
+[1.243s] reading manifest file 'handcv.egg-info/SOURCES.txt'
+[1.259s] writing manifest file 'handcv.egg-info/SOURCES.txt'
+[1.260s] running build_ext
+[1.260s] Creating /home/mwangala/Desktop/__ROS2/install/handcv/lib/python3.10/site-packages/handcv.egg-link (link to .)
+[1.261s] Installing handcv_node script to /home/mwangala/Desktop/__ROS2/install/handcv/lib/handcv
+[1.261s] 
+[1.261s] Installed /home/mwangala/Desktop/__ROS2/build/handcv
+[1.261s] running symlink_data
+[1.261s] symbolically linking /home/mwangala/Desktop/__ROS2/build/handcv/resource/handcv -> /home/mwangala/Desktop/__ROS2/install/handcv/share/ament_index/resource_index/packages
+[1.261s] symbolically linking /home/mwangala/Desktop/__ROS2/build/handcv/package.xml -> /home/mwangala/Desktop/__ROS2/install/handcv/share/handcv
+[1.261s] symbolically linking /home/mwangala/Desktop/__ROS2/build/handcv/config/handcv.rviz -> /home/mwangala/Desktop/__ROS2/install/handcv/share/handcv/config
+[1.262s] symbolically linking /home/mwangala/Desktop/__ROS2/build/handcv/config/hand_landmarker.task -> /home/mwangala/Desktop/__ROS2/install/handcv/share/handcv/config
+[1.262s] symbolically linking /home/mwangala/Desktop/__ROS2/build/handcv/config/gesture_recognizer.task -> /home/mwangala/Desktop/__ROS2/install/handcv/share/handcv/config
+[1.262s] symbolically linking /home/mwangala/Desktop/__ROS2/build/handcv/config/high_density_preset.json -> /home/mwangala/Desktop/__ROS2/install/handcv/share/handcv/config
+[1.262s] symbolically linking /home/mwangala/Desktop/__ROS2/build/handcv/launch/camera.launch.py -> /home/mwangala/Desktop/__ROS2/install/handcv/share/handcv/launch
+[1.297s] Invoked command in '/home/mwangala/Desktop/__ROS2/build/handcv' returned '0': AMENT_PREFIX_PATH=/home/mwangala/Desktop/__ROS2/install/hand_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/mwangala/Desktop/__ROS2/install/hand_interfaces:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/mwangala/Desktop/__ROS2/install/hand_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/mwangala/Desktop/__ROS2/build/handcv/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mwangala/Desktop/__ROS2/install/handcv/lib/python3.10/site-packages:/home/mwangala/Desktop/__ROS2/install/hand_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mwangala/Desktop/__ROS2/build/handcv/build --no-deps symlink_data --force

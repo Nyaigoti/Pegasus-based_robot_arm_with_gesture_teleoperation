@@ -1,0 +1,66 @@
+[1.323s] Invoking command in '/home/mwangala/Desktop/__ROS2/build/update_pegasus_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_franka_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_pegasus_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws/install/cv_franka_bridge:/opt/ros/humble /usr/bin/cmake /home/mwangala/Desktop/__ROS2/src/update_pegasus_description -DCMAKE_INSTALL_PREFIX=/home/mwangala/Desktop/__ROS2/install/update_pegasus_description
+[1.496s] -- The C compiler identification is GNU 11.4.0
+[1.643s] -- The CXX compiler identification is GNU 11.4.0
+[1.671s] -- Detecting C compiler ABI info
+[1.874s] -- Detecting C compiler ABI info - done
+[1.892s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.893s] -- Detecting C compile features
+[1.893s] -- Detecting C compile features - done
+[1.904s] -- Detecting CXX compiler ABI info
+[2.155s] -- Detecting CXX compiler ABI info - done
+[2.173s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.177s] -- Detecting CXX compile features
+[2.177s] -- Detecting CXX compile features - done
+[2.183s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.608s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[3.019s] -- Configuring done
+[3.021s] -- Generating done
+[3.024s] -- Build files have been written to: /home/mwangala/Desktop/__ROS2/build/update_pegasus_description
+[3.051s] Invoked command in '/home/mwangala/Desktop/__ROS2/build/update_pegasus_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_franka_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_pegasus_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws/install/cv_franka_bridge:/opt/ros/humble /usr/bin/cmake /home/mwangala/Desktop/__ROS2/src/update_pegasus_description -DCMAKE_INSTALL_PREFIX=/home/mwangala/Desktop/__ROS2/install/update_pegasus_description
+[3.052s] Invoking command in '/home/mwangala/Desktop/__ROS2/build/update_pegasus_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_franka_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_pegasus_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws/install/cv_franka_bridge:/opt/ros/humble /usr/bin/cmake --build /home/mwangala/Desktop/__ROS2/build/update_pegasus_description -- -j8 -l8
+[3.317s] Invoked command in '/home/mwangala/Desktop/__ROS2/build/update_pegasus_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_franka_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_pegasus_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws/install/cv_franka_bridge:/opt/ros/humble /usr/bin/cmake --build /home/mwangala/Desktop/__ROS2/build/update_pegasus_description -- -j8 -l8
+[3.338s] Invoking command in '/home/mwangala/Desktop/__ROS2/build/update_pegasus_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_franka_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_pegasus_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws/install/cv_franka_bridge:/opt/ros/humble /usr/bin/cmake --install /home/mwangala/Desktop/__ROS2/build/update_pegasus_description
+[3.362s] -- Install configuration: ""
+[3.362s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/share/ament_index/resource_index/package_run_dependencies/update_pegasus_description
+[3.362s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/share/ament_index/resource_index/parent_prefix_path/update_pegasus_description
+[3.362s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/share/update_pegasus_description/environment/ament_prefix_path.sh
+[3.362s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/share/update_pegasus_description/environment/ament_prefix_path.dsv
+[3.362s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/share/update_pegasus_description/environment/path.sh
+[3.363s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/share/update_pegasus_description/environment/path.dsv
+[3.363s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/share/update_pegasus_description/local_setup.bash
+[3.363s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/share/update_pegasus_description/local_setup.sh
+[3.363s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/share/update_pegasus_description/local_setup.zsh
+[3.363s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/share/update_pegasus_description/local_setup.dsv
+[3.363s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/share/update_pegasus_description/package.dsv
+[3.363s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/share/ament_index/resource_index/packages/update_pegasus_description
+[3.364s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/share/update_pegasus_description/cmake/update_pegasus_descriptionConfig.cmake
+[3.364s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/share/update_pegasus_description/cmake/update_pegasus_descriptionConfig-version.cmake
+[3.364s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/share/update_pegasus_description/package.xml
+[3.364s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/share/update_pegasus_description/launch
+[3.364s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/share/update_pegasus_description/launch/move_group.launch.py
+[3.364s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/share/update_pegasus_description/launch/setup_assistant.launch.py
+[3.364s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/share/update_pegasus_description/launch/moveit_rviz.launch.py
+[3.364s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/share/update_pegasus_description/launch/pegasus.launch.py
+[3.366s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/share/update_pegasus_description/launch/static_virtual_joint_tfs.launch.py
+[3.366s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/share/update_pegasus_description/launch/spawn_controllers.launch.py
+[3.366s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/share/update_pegasus_description/launch/warehouse_db.launch.py
+[3.366s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/share/update_pegasus_description/launch/demo.launch.py
+[3.366s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/share/update_pegasus_description/launch/tester.launch.py
+[3.366s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/share/update_pegasus_description/launch/display.launch.py
+[3.366s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/share/update_pegasus_description/launch/rsp.launch.py
+[3.366s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/share/update_pegasus_description/launch/spawn.launch.py
+[3.366s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/share/update_pegasus_description/config
+[3.366s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/share/update_pegasus_description/config/moveit.rviz
+[3.378s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/share/update_pegasus_description/config/pegasus.srdf
+[3.378s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/share/update_pegasus_description/config/pegasus.urdf.xacro
+[3.378s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/share/update_pegasus_description/config/initial_positions.yaml
+[3.378s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/share/update_pegasus_description/config/joint_limits.yaml
+[3.378s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/share/update_pegasus_description/config/ros2_controllers.yaml
+[3.378s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/share/update_pegasus_description/config/pegasus.ros2_control.xacro
+[3.378s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/share/update_pegasus_description/config/moveit_controllers.yaml
+[3.378s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/share/update_pegasus_description/config/kinematics.yaml
+[3.378s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/share/update_pegasus_description/config/pilz_cartesian_limits.yaml
+[3.380s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/share/update_pegasus_description/.setup_assistant
+[3.380s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/lib/update_pegasus_description/pegasus_commander.py
+[3.380s] -- Installing: /home/mwangala/Desktop/__ROS2/install/update_pegasus_description/lib/update_pegasus_description/planned_path_listener.py
+[3.396s] Invoked command in '/home/mwangala/Desktop/__ROS2/build/update_pegasus_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_franka_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_pegasus_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws/install/cv_franka_bridge:/opt/ros/humble /usr/bin/cmake --install /home/mwangala/Desktop/__ROS2/build/update_pegasus_description

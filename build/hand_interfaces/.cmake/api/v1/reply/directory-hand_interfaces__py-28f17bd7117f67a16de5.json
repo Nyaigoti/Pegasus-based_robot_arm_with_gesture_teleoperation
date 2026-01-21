@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "hand_interfaces__py",
+		"source" : "/home/mwangala/Desktop/__ROS2/build/hand_interfaces/hand_interfaces__py"
+	}
+}

@@ -1,0 +1,1 @@
+/home/mwangala/Desktop/__ROS2/build/hand_interfaces/rosidl_generator_c/hand_interfaces/msg/detail/finger_data__type_support.h

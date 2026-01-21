@@ -1,0 +1,10 @@
+/home/mwangala/Desktop/__ROS2/build/kinect2_calibration/CMakeFiles/uninstall.dir
+/home/mwangala/Desktop/__ROS2/build/kinect2_calibration/CMakeFiles/kinect2_calibration_uninstall.dir
+/home/mwangala/Desktop/__ROS2/build/kinect2_calibration/CMakeFiles/kinect2_calibration_node.dir
+/home/mwangala/Desktop/__ROS2/build/kinect2_calibration/CMakeFiles/test.dir
+/home/mwangala/Desktop/__ROS2/build/kinect2_calibration/CMakeFiles/edit_cache.dir
+/home/mwangala/Desktop/__ROS2/build/kinect2_calibration/CMakeFiles/rebuild_cache.dir
+/home/mwangala/Desktop/__ROS2/build/kinect2_calibration/CMakeFiles/list_install_components.dir
+/home/mwangala/Desktop/__ROS2/build/kinect2_calibration/CMakeFiles/install.dir
+/home/mwangala/Desktop/__ROS2/build/kinect2_calibration/CMakeFiles/install/local.dir
+/home/mwangala/Desktop/__ROS2/build/kinect2_calibration/CMakeFiles/install/strip.dir

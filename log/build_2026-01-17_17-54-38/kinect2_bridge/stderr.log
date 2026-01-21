@@ -1,0 +1,5 @@
+[01m[K/home/mwangala/Desktop/__ROS2/src/kinect2_bridge/src/kinect2_bridge.cpp:[m[K In member function ‘[01m[Kbool Kinect2BridgeNode::initPipeline(const string&, int32_t)[m[K’:
+[01m[K/home/mwangala/Desktop/__ROS2/src/kinect2_bridge/src/kinect2_bridge.cpp:414:62:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kdevice[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+  414 | ing &method, [01;35m[Kconst int32_t device[m[K)
+      |              [01;35m[K~~~~~~~~~~~~~~^~~~~~[m[K
+

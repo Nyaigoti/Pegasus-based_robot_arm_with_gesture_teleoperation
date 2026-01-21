@@ -1,0 +1,1 @@
+/home/mwangala/Desktop/__ROS2/build/compressed_depth_image_transport/ament_cmake_environment_hooks/local_setup.bash

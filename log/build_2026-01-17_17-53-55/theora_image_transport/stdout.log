@@ -1,0 +1,9 @@
+[  2%] Built target theora_image_transport__cpp
+[35m[1mConsolidate compiler generated dependencies of target theora_image_transport__rosidl_typesupport_fastrtps_cpp[0m
+[35m[1mConsolidate compiler generated dependencies of target theora_image_transport__rosidl_typesupport_introspection_cpp[0m
+[35m[1mConsolidate compiler generated dependencies of target theora_image_transport__rosidl_generator_c[0m
+[35m[1mConsolidate compiler generated dependencies of target theora_image_transport__rosidl_typesupport_cpp[0m
+[ 10%] Built target theora_image_transport__rosidl_generator_c
+[ 18%] Built target theora_image_transport__rosidl_typesupport_introspection_cpp
+[ 27%] Built target theora_image_transport__rosidl_typesupport_fastrtps_cpp
+[ 35%] Built target theora_image_transport__rosidl_typesupport_cpp

@@ -1,0 +1,1 @@
+/home/mwangala/Desktop/__ROS2/build/hand_interfaces/rosidl_generator_cpp/hand_interfaces/msg/pinch.hpp

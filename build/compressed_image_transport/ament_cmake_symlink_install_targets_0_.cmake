@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/mwangala/Desktop/__ROS2/build/compressed_image_transport/libcompressed_image_transport.so" "TARGETS" "compressed_image_transport" "ARCHIVE_DESTINATION" "lib" "LIBRARY_DESTINATION" "lib" "RUNTIME_DESTINATION" "bin")

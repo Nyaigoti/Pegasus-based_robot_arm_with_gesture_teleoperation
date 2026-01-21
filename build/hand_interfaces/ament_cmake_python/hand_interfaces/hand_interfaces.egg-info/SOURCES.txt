@@ -1,0 +1,11 @@
+setup.py
+hand_interfaces/__init__.py
+hand_interfaces.egg-info/PKG-INFO
+hand_interfaces.egg-info/SOURCES.txt
+hand_interfaces.egg-info/dependency_links.txt
+hand_interfaces.egg-info/top_level.txt
+hand_interfaces/msg/__init__.py
+hand_interfaces/msg/_finger_data.py
+hand_interfaces/msg/_pinch.py
+hand_interfaces/srv/__init__.py
+hand_interfaces/srv/_hand_pose.py

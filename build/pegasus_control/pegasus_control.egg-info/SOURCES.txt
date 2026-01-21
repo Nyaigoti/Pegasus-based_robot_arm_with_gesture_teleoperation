@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../../build/pegasus_control/pegasus_control.egg-info/PKG-INFO
+../../build/pegasus_control/pegasus_control.egg-info/SOURCES.txt
+../../build/pegasus_control/pegasus_control.egg-info/dependency_links.txt
+../../build/pegasus_control/pegasus_control.egg-info/entry_points.txt
+../../build/pegasus_control/pegasus_control.egg-info/requires.txt
+../../build/pegasus_control/pegasus_control.egg-info/top_level.txt
+../../build/pegasus_control/pegasus_control.egg-info/zip-safe
+pegasus_control/__init__.py
+pegasus_control/headless_node.py
+pegasus_control/pegasus_commander.py
+pegasus_control/socket_server.py
+pegasus_control/gui/__init__.py
+pegasus_control/gui/gui_node.py
+resource/pegasus_control

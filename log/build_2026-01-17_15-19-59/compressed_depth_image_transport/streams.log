@@ -1,0 +1,56 @@
+[0.122s] Invoking command in '/home/mwangala/Desktop/__ROS2/build/compressed_depth_image_transport': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_franka_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_pegasus_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws/install/cv_franka_bridge:/opt/ros/humble /usr/bin/cmake /home/mwangala/Desktop/__ROS2/src/image_transport_plugins/compressed_depth_image_transport -DCMAKE_INSTALL_PREFIX=/home/mwangala/Desktop/__ROS2/install/compressed_depth_image_transport
+[1.381s] -- The C compiler identification is GNU 11.4.0
+[1.381s] -- The CXX compiler identification is GNU 11.4.0
+[1.381s] -- Detecting C compiler ABI info
+[1.381s] -- Detecting C compiler ABI info - done
+[1.382s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.382s] -- Detecting C compile features
+[1.382s] -- Detecting C compile features - done
+[1.383s] -- Detecting CXX compiler ABI info
+[1.383s] -- Detecting CXX compiler ABI info - done
+[1.383s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.383s] -- Detecting CXX compile features
+[1.383s] -- Detecting CXX compile features - done
+[1.383s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.383s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.576s] -- Found image_transport: 3.1.11 (/opt/ros/humble/share/image_transport/cmake)
+[1.685s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.698s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.715s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.739s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.775s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.920s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.946s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[2.219s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[2.321s] -- Found FastRTPS: /opt/ros/humble/include  
+[2.400s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.421s] -- Looking for pthread.h
+[2.615s] -- Looking for pthread.h - found
+[2.615s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[2.880s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[2.883s] -- Found Threads: TRUE  
+[3.122s] -- Found cv_bridge: 3.2.1 (/opt/ros/humble/share/cv_bridge/cmake)
+[3.170s] -- Found OpenCV: /usr (found version "4.5.4") 
+[3.331s] -- Configuring done
+[3.354s] -- Generating done
+[3.360s] -- Build files have been written to: /home/mwangala/Desktop/__ROS2/build/compressed_depth_image_transport
+[3.418s] Invoked command in '/home/mwangala/Desktop/__ROS2/build/compressed_depth_image_transport' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_franka_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_pegasus_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws/install/cv_franka_bridge:/opt/ros/humble /usr/bin/cmake /home/mwangala/Desktop/__ROS2/src/image_transport_plugins/compressed_depth_image_transport -DCMAKE_INSTALL_PREFIX=/home/mwangala/Desktop/__ROS2/install/compressed_depth_image_transport
+[3.419s] Invoking command in '/home/mwangala/Desktop/__ROS2/build/compressed_depth_image_transport': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_franka_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_pegasus_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws/install/cv_franka_bridge:/opt/ros/humble /usr/bin/cmake --build /home/mwangala/Desktop/__ROS2/build/compressed_depth_image_transport -- -j8 -l8
+[3.546s] [ 20%] [32mBuilding CXX object CMakeFiles/compressed_depth_image_transport.dir/src/compressed_depth_publisher.cpp.o[0m
+[3.546s] [ 40%] [32mBuilding CXX object CMakeFiles/compressed_depth_image_transport.dir/src/compressed_depth_subscriber.cpp.o[0m
+[3.546s] [ 80%] [32mBuilding CXX object CMakeFiles/compressed_depth_image_transport.dir/src/manifest.cpp.o[0m
+[3.546s] [ 80%] [32mBuilding CXX object CMakeFiles/compressed_depth_image_transport.dir/src/codec.cpp.o[0m
+[5.833s] [01m[K/home/mwangala/Desktop/__ROS2/src/image_transport_plugins/compressed_depth_image_transport/src/codec.cpp:40:10:[m[K [01;31m[Kfatal error: [m[Kcv_bridge/cv_bridge.hpp: No such file or directory
+[5.833s]    40 | #include [01;31m[K"cv_bridge/cv_bridge.hpp"[m[K
+[5.833s]       |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[5.833s] compilation terminated.
+[5.857s] gmake[2]: *** [CMakeFiles/compressed_depth_image_transport.dir/build.make:118: CMakeFiles/compressed_depth_image_transport.dir/src/codec.cpp.o] Error 1
+[5.857s] gmake[2]: *** Waiting for unfinished jobs....
+[11.291s] [01m[K/home/mwangala/Desktop/__ROS2/src/image_transport_plugins/compressed_depth_image_transport/src/compressed_depth_publisher.cpp:36:10:[m[K [01;31m[Kfatal error: [m[Kcv_bridge/cv_bridge.hpp: No such file or directory
+[11.291s]    36 | #include [01;31m[K<cv_bridge/cv_bridge.hpp>[m[K
+[11.291s]       |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[11.292s] compilation terminated.
+[11.410s] gmake[2]: *** [CMakeFiles/compressed_depth_image_transport.dir/build.make:76: CMakeFiles/compressed_depth_image_transport.dir/src/compressed_depth_publisher.cpp.o] Error 1
+[26.451s] gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/compressed_depth_image_transport.dir/all] Error 2
+[26.451s] gmake: *** [Makefile:146: all] Error 2
+[26.453s] Invoked command in '/home/mwangala/Desktop/__ROS2/build/compressed_depth_image_transport' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_franka_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_pegasus_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws/install/cv_franka_bridge:/opt/ros/humble /usr/bin/cmake --build /home/mwangala/Desktop/__ROS2/build/compressed_depth_image_transport -- -j8 -l8

@@ -1,0 +1,16 @@
+[0.354s] Invoking command in '/home/mwangala/Desktop/__ROS2/build/theora_image_transport': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_franka_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_pegasus_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws/install/cv_franka_bridge:/opt/ros/humble /usr/bin/cmake --build /home/mwangala/Desktop/__ROS2/build/theora_image_transport -- -j8 -l8
+[1.372s] [  2%] Built target theora_image_transport__cpp
+[1.372s] [35m[1mConsolidate compiler generated dependencies of target theora_image_transport__rosidl_typesupport_fastrtps_cpp[0m
+[1.372s] [35m[1mConsolidate compiler generated dependencies of target theora_image_transport__rosidl_typesupport_introspection_cpp[0m
+[1.372s] [35m[1mConsolidate compiler generated dependencies of target theora_image_transport__rosidl_generator_c[0m
+[1.374s] [35m[1mConsolidate compiler generated dependencies of target theora_image_transport__rosidl_typesupport_cpp[0m
+[1.374s] [ 10%] Built target theora_image_transport__rosidl_generator_c
+[1.374s] [ 18%] Built target theora_image_transport__rosidl_typesupport_introspection_cpp
+[1.375s] [ 27%] Built target theora_image_transport__rosidl_typesupport_fastrtps_cpp
+[1.375s] [ 35%] Built target theora_image_transport__rosidl_typesupport_cpp
+[1.375s] failed to create symbolic link '/home/mwangala/Desktop/__ROS2/build/theora_image_transport/ament_cmake_python/theora_image_transport/theora_image_transport' because existing path cannot be removed: Is a directory
+[1.376s] gmake[2]: *** [CMakeFiles/ament_cmake_python_symlink_theora_image_transport.dir/build.make:70: CMakeFiles/ament_cmake_python_symlink_theora_image_transport] Error 1
+[1.376s] gmake[1]: *** [CMakeFiles/Makefile2:425: CMakeFiles/ament_cmake_python_symlink_theora_image_transport.dir/all] Error 2
+[1.376s] gmake[1]: *** Waiting for unfinished jobs....
+[1.376s] gmake: *** [Makefile:146: all] Error 2
+[1.475s] Invoked command in '/home/mwangala/Desktop/__ROS2/build/theora_image_transport' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_franka_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_pegasus_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws/install/cv_franka_bridge:/opt/ros/humble /usr/bin/cmake --build /home/mwangala/Desktop/__ROS2/build/theora_image_transport -- -j8 -l8

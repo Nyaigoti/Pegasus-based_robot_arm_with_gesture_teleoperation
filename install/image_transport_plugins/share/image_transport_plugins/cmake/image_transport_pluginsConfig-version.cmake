@@ -1,0 +1,1 @@
+/home/mwangala/Desktop/__ROS2/build/image_transport_plugins/ament_cmake_core/image_transport_pluginsConfig-version.cmake

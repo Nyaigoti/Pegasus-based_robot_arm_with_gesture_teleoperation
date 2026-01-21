@@ -1,0 +1,251 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-2dcc32b78a6e1b59bbf3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
+					]
+				},
+				{
+					"build" : "theora_image_transport__py",
+					"jsonFile" : "directory-theora_image_transport__py-5f6e983b035420e57e57.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/mwangala/Desktop/__ROS2/build/theora_image_transport/theora_image_transport__py",
+					"targetIndexes" : 
+					[
+						5
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "theora_image_transport",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_theora_image_transport_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_theora_image_transport_egg-e1a86ed9429216043c79.json",
+					"name" : "ament_cmake_python_build_theora_image_transport_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_symlink_theora_image_transport::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_symlink_theora_image_transport-f047ee87711b9a655354.json",
+					"name" : "ament_cmake_python_symlink_theora_image_transport",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ogg_saver::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ogg_saver-3efd0318b711e801fff3.json",
+					"name" : "ogg_saver",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "theora_image_transport::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-theora_image_transport-728df30380c49793ae49.json",
+					"name" : "theora_image_transport",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "theora_image_transport__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-theora_image_transport__cpp-f6296b1c77d1485d413b.json",
+					"name" : "theora_image_transport__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "theora_image_transport__py::@cfd03280f36af5c65196",
+					"jsonFile" : "target-theora_image_transport__py-fef0cfb287fb7d83ff09.json",
+					"name" : "theora_image_transport__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "theora_image_transport__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-theora_image_transport__rosidl_generator_c-96bb00f1f3b8f2d3dbae.json",
+					"name" : "theora_image_transport__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "theora_image_transport__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-theora_image_transport__rosidl_generator_py-b5ecc0386ae79c17da1e.json",
+					"name" : "theora_image_transport__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "theora_image_transport__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-theora_image_transport__rosidl_typesupport_c-e3493db0fc8366083197.json",
+					"name" : "theora_image_transport__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "theora_image_transport__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-theora_image_transport__rosidl_typesupport_c__pyext-8b2ccce049b2b0b0fb73.json",
+					"name" : "theora_image_transport__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "theora_image_transport__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-theora_image_transport__rosidl_typesupport_cpp-9562838a9ed8e20c5efb.json",
+					"name" : "theora_image_transport__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "theora_image_transport__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-theora_image_transport__rosidl_typesupport_fastrtps_c-afaa72bae33c89e0f632.json",
+					"name" : "theora_image_transport__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "theora_image_transport__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-theora_image_transport__rosidl_typesupport_fastrtps_c__pyext-e5bd825370f3a9cfe407.json",
+					"name" : "theora_image_transport__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "theora_image_transport__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-theora_image_transport__rosidl_typesupport_fastrtps_cpp-e98d24b9d1ecf7864631.json",
+					"name" : "theora_image_transport__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "theora_image_transport__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-theora_image_transport__rosidl_typesupport_introspection_c-b0fb501cba75c4dee246.json",
+					"name" : "theora_image_transport__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "theora_image_transport__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-theora_image_transport__rosidl_typesupport_introspection_c__pyext-cdb6e0862e28a5149a30.json",
+					"name" : "theora_image_transport__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "theora_image_transport__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-theora_image_transport__rosidl_typesupport_introspection_cpp-39fbf1a6f0e9e07d0ddf.json",
+					"name" : "theora_image_transport__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "theora_image_transport_component::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-theora_image_transport_component-29f8382c423033fa0711.json",
+					"name" : "theora_image_transport_component",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "theora_image_transport_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-theora_image_transport_uninstall-2d6f2091e03f75ec15b8.json",
+					"name" : "theora_image_transport_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-514ac3a4d2b1d5576431.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/mwangala/Desktop/__ROS2/build/theora_image_transport",
+		"source" : "/home/mwangala/Desktop/__ROS2/src/image_transport_plugins/theora_image_transport"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

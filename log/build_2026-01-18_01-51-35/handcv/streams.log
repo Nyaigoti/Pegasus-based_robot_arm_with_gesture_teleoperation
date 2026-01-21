@@ -1,0 +1,21 @@
+[1.588s] Invoking command in '/home/mwangala/Desktop/__ROS2/src/handcv': AMENT_PREFIX_PATH=/home/mwangala/Desktop/__ROS2/install/hand_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/mwangala/Desktop/__ROS2/install/hand_interfaces:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/mwangala/Desktop/__ROS2/install/hand_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/mwangala/Desktop/__ROS2/build/handcv/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mwangala/Desktop/__ROS2/install/handcv/lib/python3.10/site-packages:/home/mwangala/Desktop/__ROS2/install/hand_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/handcv build --build-base /home/mwangala/Desktop/__ROS2/build/handcv/build install --record /home/mwangala/Desktop/__ROS2/build/handcv/install.log --single-version-externally-managed install_data
+[1.674s] running egg_info
+[1.675s] writing ../../build/handcv/handcv.egg-info/PKG-INFO
+[1.688s] writing dependency_links to ../../build/handcv/handcv.egg-info/dependency_links.txt
+[1.710s] writing entry points to ../../build/handcv/handcv.egg-info/entry_points.txt
+[1.721s] writing requirements to ../../build/handcv/handcv.egg-info/requires.txt
+[1.732s] writing top-level names to ../../build/handcv/handcv.egg-info/top_level.txt
+[1.748s] reading manifest file '../../build/handcv/handcv.egg-info/SOURCES.txt'
+[1.803s] writing manifest file '../../build/handcv/handcv.egg-info/SOURCES.txt'
+[1.833s] running build
+[1.833s] running build_py
+[1.834s] running install
+[1.835s] running install_lib
+[1.838s] running install_data
+[1.838s] running install_egg_info
+[1.842s] removing '/home/mwangala/Desktop/__ROS2/install/handcv/lib/python3.10/site-packages/handcv-0.0.1-py3.10.egg-info' (and everything under it)
+[1.843s] Copying ../../build/handcv/handcv.egg-info to /home/mwangala/Desktop/__ROS2/install/handcv/lib/python3.10/site-packages/handcv-0.0.1-py3.10.egg-info
+[1.844s] running install_scripts
+[1.877s] Installing handcv_node script to /home/mwangala/Desktop/__ROS2/install/handcv/lib/handcv
+[1.901s] writing list of installed files to '/home/mwangala/Desktop/__ROS2/build/handcv/install.log'
+[1.945s] Invoked command in '/home/mwangala/Desktop/__ROS2/src/handcv' returned '0': AMENT_PREFIX_PATH=/home/mwangala/Desktop/__ROS2/install/hand_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/mwangala/Desktop/__ROS2/install/hand_interfaces:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/mwangala/Desktop/__ROS2/install/hand_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/mwangala/Desktop/__ROS2/build/handcv/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mwangala/Desktop/__ROS2/install/handcv/lib/python3.10/site-packages:/home/mwangala/Desktop/__ROS2/install/hand_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/handcv build --build-base /home/mwangala/Desktop/__ROS2/build/handcv/build install --record /home/mwangala/Desktop/__ROS2/build/handcv/install.log --single-version-externally-managed install_data

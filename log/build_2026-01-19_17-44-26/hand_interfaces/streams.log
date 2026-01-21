@@ -1,0 +1,158 @@
+[1.537s] Invoking command in '/home/mwangala/Desktop/__ROS2/build/hand_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_franka_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_pegasus_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws/install/cv_franka_bridge:/opt/ros/humble /usr/bin/cmake --build /home/mwangala/Desktop/__ROS2/build/hand_interfaces -- -j8 -l8
+[3.443s] [  2%] Built target hand_interfaces__cpp
+[3.443s] [ 12%] Built target hand_interfaces__rosidl_generator_c
+[3.443s] [ 12%] Built target ament_cmake_python_symlink_hand_interfaces
+[3.443s] [ 23%] Built target hand_interfaces__rosidl_typesupport_cpp
+[3.443s] [ 34%] Built target hand_interfaces__rosidl_typesupport_introspection_c
+[3.443s] [ 44%] Built target hand_interfaces__rosidl_typesupport_introspection_cpp
+[3.443s] [ 57%] Built target hand_interfaces__rosidl_typesupport_c
+[3.443s] [ 65%] Built target hand_interfaces__rosidl_typesupport_fastrtps_c
+[3.444s] [ 76%] Built target hand_interfaces__rosidl_typesupport_fastrtps_cpp
+[3.444s] [ 76%] Built target hand_interfaces
+[3.444s] [ 78%] Built target hand_interfaces__py
+[3.444s] [ 87%] Built target hand_interfaces__rosidl_generator_py
+[3.444s] [ 95%] Built target hand_interfaces__rosidl_typesupport_introspection_c__pyext
+[3.444s] [ 95%] Built target hand_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[3.444s] [100%] Built target hand_interfaces__rosidl_typesupport_c__pyext
+[3.445s] running egg_info
+[3.445s] writing hand_interfaces.egg-info/PKG-INFO
+[3.447s] writing dependency_links to hand_interfaces.egg-info/dependency_links.txt
+[3.447s] writing top-level names to hand_interfaces.egg-info/top_level.txt
+[3.447s] reading manifest file 'hand_interfaces.egg-info/SOURCES.txt'
+[3.447s] writing manifest file 'hand_interfaces.egg-info/SOURCES.txt'
+[3.447s] [100%] Built target ament_cmake_python_build_hand_interfaces_egg
+[3.499s] Invoked command in '/home/mwangala/Desktop/__ROS2/build/hand_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_franka_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_pegasus_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws/install/cv_franka_bridge:/opt/ros/humble /usr/bin/cmake --build /home/mwangala/Desktop/__ROS2/build/hand_interfaces -- -j8 -l8
+[3.500s] Invoking command in '/home/mwangala/Desktop/__ROS2/build/hand_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_franka_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_pegasus_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws/install/cv_franka_bridge:/opt/ros/humble /usr/bin/cmake --install /home/mwangala/Desktop/__ROS2/build/hand_interfaces
+[3.562s] -- Install configuration: ""
+[3.562s] -- Execute custom install script
+[3.562s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/ament_index/resource_index/rosidl_interfaces/hand_interfaces
+[3.562s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/msg/detail/finger_data__functions.h
+[3.562s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/msg/detail/finger_data__struct.h
+[3.562s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/msg/detail/finger_data__type_support.h
+[3.562s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/msg/detail/pinch__functions.h
+[3.563s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/msg/detail/pinch__struct.h
+[3.563s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/msg/detail/pinch__type_support.h
+[3.565s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/msg/finger_data.h
+[3.565s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/msg/pinch.h
+[3.566s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/msg/rosidl_generator_c__visibility_control.h
+[3.571s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/srv/detail/hand_pose__functions.h
+[3.571s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/srv/detail/hand_pose__struct.h
+[3.571s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/srv/detail/hand_pose__type_support.h
+[3.571s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/srv/hand_pose.h
+[3.572s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/environment/library_path.sh
+[3.572s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/environment/library_path.dsv
+[3.572s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/msg/detail/finger_data__rosidl_typesupport_fastrtps_c.h
+[3.572s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/msg/detail/pinch__rosidl_typesupport_fastrtps_c.h
+[3.572s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[3.572s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/srv/detail/hand_pose__rosidl_typesupport_fastrtps_c.h
+[3.572s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/msg/detail/finger_data__builder.hpp
+[3.572s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/msg/detail/finger_data__struct.hpp
+[3.572s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/msg/detail/finger_data__traits.hpp
+[3.572s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/msg/detail/finger_data__type_support.hpp
+[3.572s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/msg/detail/pinch__builder.hpp
+[3.572s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/msg/detail/pinch__struct.hpp
+[3.572s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/msg/detail/pinch__traits.hpp
+[3.573s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/msg/detail/pinch__type_support.hpp
+[3.573s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/msg/finger_data.hpp
+[3.576s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/msg/pinch.hpp
+[3.576s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/msg/rosidl_generator_cpp__visibility_control.hpp
+[3.576s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/srv/detail/hand_pose__builder.hpp
+[3.576s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/srv/detail/hand_pose__struct.hpp
+[3.576s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/srv/detail/hand_pose__traits.hpp
+[3.577s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/srv/detail/hand_pose__type_support.hpp
+[3.577s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/srv/hand_pose.hpp
+[3.577s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/msg/detail/finger_data__rosidl_typesupport_fastrtps_cpp.hpp
+[3.577s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/msg/detail/pinch__rosidl_typesupport_fastrtps_cpp.hpp
+[3.577s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[3.577s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/srv/detail/hand_pose__rosidl_typesupport_fastrtps_cpp.hpp
+[3.577s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/msg/detail/finger_data__rosidl_typesupport_introspection_c.h
+[3.577s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/msg/detail/pinch__rosidl_typesupport_introspection_c.h
+[3.577s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[3.577s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/srv/detail/hand_pose__rosidl_typesupport_introspection_c.h
+[3.577s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/msg/detail/finger_data__rosidl_typesupport_introspection_cpp.hpp
+[3.577s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/msg/detail/pinch__rosidl_typesupport_introspection_cpp.hpp
+[3.577s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/include/hand_interfaces/hand_interfaces/srv/detail/hand_pose__rosidl_typesupport_introspection_cpp.hpp
+[3.577s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/environment/pythonpath.sh
+[3.578s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/environment/pythonpath.dsv
+[3.578s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/local/lib/python3.10/dist-packages/hand_interfaces-0.0.1-py3.10.egg-info/PKG-INFO
+[3.584s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/local/lib/python3.10/dist-packages/hand_interfaces-0.0.1-py3.10.egg-info/SOURCES.txt
+[3.584s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/local/lib/python3.10/dist-packages/hand_interfaces-0.0.1-py3.10.egg-info/dependency_links.txt
+[3.584s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/local/lib/python3.10/dist-packages/hand_interfaces-0.0.1-py3.10.egg-info/top_level.txt
+[3.584s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/local/lib/python3.10/dist-packages/hand_interfaces/__init__.py
+[3.584s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/local/lib/python3.10/dist-packages/hand_interfaces/_hand_interfaces_s.ep.rosidl_typesupport_c.c
+[3.584s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/local/lib/python3.10/dist-packages/hand_interfaces/_hand_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c
+[3.584s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/local/lib/python3.10/dist-packages/hand_interfaces/_hand_interfaces_s.ep.rosidl_typesupport_introspection_c.c
+[3.584s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/local/lib/python3.10/dist-packages/hand_interfaces/hand_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[3.585s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/local/lib/python3.10/dist-packages/hand_interfaces/hand_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[3.585s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/local/lib/python3.10/dist-packages/hand_interfaces/hand_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[3.585s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/local/lib/python3.10/dist-packages/hand_interfaces/libhand_interfaces__rosidl_generator_py.so
+[3.588s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/local/lib/python3.10/dist-packages/hand_interfaces/msg/__init__.py
+[3.588s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/local/lib/python3.10/dist-packages/hand_interfaces/msg/_finger_data.py
+[3.588s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/local/lib/python3.10/dist-packages/hand_interfaces/msg/_finger_data_s.c
+[3.588s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/local/lib/python3.10/dist-packages/hand_interfaces/msg/_pinch.py
+[3.588s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/local/lib/python3.10/dist-packages/hand_interfaces/msg/_pinch_s.c
+[3.588s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/local/lib/python3.10/dist-packages/hand_interfaces/srv/__init__.py
+[3.589s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/local/lib/python3.10/dist-packages/hand_interfaces/srv/_hand_pose.py
+[3.589s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/local/lib/python3.10/dist-packages/hand_interfaces/srv/_hand_pose_s.c
+[3.589s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/local/lib/python3.10/dist-packages/hand_interfaces/hand_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[3.589s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/local/lib/python3.10/dist-packages/hand_interfaces/hand_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[3.589s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/local/lib/python3.10/dist-packages/hand_interfaces/hand_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[3.589s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/srv/HandPose.idl
+[3.589s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/msg/FingerData.idl
+[3.589s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/msg/Pinch.idl
+[3.589s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/srv/HandPose.srv
+[3.589s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/srv/HandPose_Request.msg
+[3.589s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/srv/HandPose_Response.msg
+[3.589s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/msg/FingerData.msg
+[3.589s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/msg/Pinch.msg
+[3.590s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/ament_index/resource_index/package_run_dependencies/hand_interfaces
+[3.590s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/ament_index/resource_index/parent_prefix_path/hand_interfaces
+[3.590s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/environment/ament_prefix_path.sh
+[3.590s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/environment/ament_prefix_path.dsv
+[3.590s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/environment/path.sh
+[3.590s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/environment/path.dsv
+[3.590s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/local_setup.bash
+[3.590s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/local_setup.sh
+[3.590s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/local_setup.zsh
+[3.590s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/local_setup.dsv
+[3.590s] -- Symlinking: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/package.dsv
+[3.594s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/ament_index/resource_index/packages/hand_interfaces
+[3.594s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/cmake/rosidl_cmake-extras.cmake
+[3.594s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+[3.594s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+[3.600s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+[3.600s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+[3.600s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[3.604s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[3.604s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/cmake/hand_interfacesConfig.cmake
+[3.604s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/cmake/hand_interfacesConfig-version.cmake
+[3.604s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/package.xml
+[3.604s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/lib/libhand_interfaces__rosidl_generator_c.so
+[3.604s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/lib/libhand_interfaces__rosidl_typesupport_fastrtps_c.so
+[3.606s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/lib/libhand_interfaces__rosidl_typesupport_fastrtps_cpp.so
+[3.607s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/lib/libhand_interfaces__rosidl_typesupport_introspection_c.so
+[3.607s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/lib/libhand_interfaces__rosidl_typesupport_c.so
+[3.607s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/lib/libhand_interfaces__rosidl_typesupport_introspection_cpp.so
+[3.607s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/lib/libhand_interfaces__rosidl_typesupport_cpp.so
+[3.688s] Listing '/home/mwangala/Desktop/__ROS2/install/hand_interfaces/local/lib/python3.10/dist-packages/hand_interfaces'...
+[3.689s] Listing '/home/mwangala/Desktop/__ROS2/install/hand_interfaces/local/lib/python3.10/dist-packages/hand_interfaces/msg'...
+[3.689s] Listing '/home/mwangala/Desktop/__ROS2/install/hand_interfaces/local/lib/python3.10/dist-packages/hand_interfaces/srv'...
+[3.694s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/lib/libhand_interfaces__rosidl_generator_py.so
+[3.694s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/cmake/export_hand_interfaces__rosidl_generator_cExport.cmake
+[3.694s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/cmake/export_hand_interfaces__rosidl_generator_cExport-noconfig.cmake
+[3.694s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/cmake/export_hand_interfaces__rosidl_typesupport_fastrtps_cExport.cmake
+[3.694s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/cmake/export_hand_interfaces__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[3.694s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/cmake/export_hand_interfaces__rosidl_generator_cppExport.cmake
+[3.694s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/cmake/export_hand_interfaces__rosidl_typesupport_fastrtps_cppExport.cmake
+[3.695s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/cmake/export_hand_interfaces__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[3.695s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/cmake/hand_interfaces__rosidl_typesupport_introspection_cExport.cmake
+[3.698s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/cmake/hand_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[3.699s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/cmake/hand_interfaces__rosidl_typesupport_cExport.cmake
+[3.699s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/cmake/hand_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+[3.699s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/cmake/hand_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+[3.699s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/cmake/hand_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[3.699s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/cmake/hand_interfaces__rosidl_typesupport_cppExport.cmake
+[3.699s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/cmake/hand_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+[3.699s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/cmake/export_hand_interfaces__rosidl_generator_pyExport.cmake
+[3.699s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/hand_interfaces/share/hand_interfaces/cmake/export_hand_interfaces__rosidl_generator_pyExport-noconfig.cmake
+[3.753s] Invoked command in '/home/mwangala/Desktop/__ROS2/build/hand_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_franka_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_pegasus_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws/install/cv_franka_bridge:/opt/ros/humble /usr/bin/cmake --install /home/mwangala/Desktop/__ROS2/build/hand_interfaces

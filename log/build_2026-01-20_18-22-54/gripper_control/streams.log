@@ -1,0 +1,21 @@
+[0.896s] Invoking command in '/home/mwangala/Desktop/__ROS2/src/gripper_control': PYTHONPATH=/home/mwangala/Desktop/__ROS2/build/gripper_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mwangala/Desktop/__ROS2/install/gripper_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/gripper_control build --build-base /home/mwangala/Desktop/__ROS2/build/gripper_control/build install --record /home/mwangala/Desktop/__ROS2/build/gripper_control/install.log --single-version-externally-managed install_data
+[1.207s] running egg_info
+[1.208s] writing ../../build/gripper_control/gripper_control.egg-info/PKG-INFO
+[1.246s] writing dependency_links to ../../build/gripper_control/gripper_control.egg-info/dependency_links.txt
+[1.246s] writing entry points to ../../build/gripper_control/gripper_control.egg-info/entry_points.txt
+[1.247s] writing requirements to ../../build/gripper_control/gripper_control.egg-info/requires.txt
+[1.247s] writing top-level names to ../../build/gripper_control/gripper_control.egg-info/top_level.txt
+[1.249s] reading manifest file '../../build/gripper_control/gripper_control.egg-info/SOURCES.txt'
+[1.259s] writing manifest file '../../build/gripper_control/gripper_control.egg-info/SOURCES.txt'
+[1.260s] running build
+[1.260s] running build_py
+[1.261s] running install
+[1.261s] running install_lib
+[1.263s] running install_data
+[1.263s] running install_egg_info
+[1.265s] removing '/home/mwangala/Desktop/__ROS2/install/gripper_control/lib/python3.10/site-packages/gripper_control-0.0.0-py3.10.egg-info' (and everything under it)
+[1.265s] Copying ../../build/gripper_control/gripper_control.egg-info to /home/mwangala/Desktop/__ROS2/install/gripper_control/lib/python3.10/site-packages/gripper_control-0.0.0-py3.10.egg-info
+[1.266s] running install_scripts
+[1.290s] Installing gripper_node script to /home/mwangala/Desktop/__ROS2/install/gripper_control/lib/gripper_control
+[1.292s] writing list of installed files to '/home/mwangala/Desktop/__ROS2/build/gripper_control/install.log'
+[1.329s] Invoked command in '/home/mwangala/Desktop/__ROS2/src/gripper_control' returned '0': PYTHONPATH=/home/mwangala/Desktop/__ROS2/build/gripper_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mwangala/Desktop/__ROS2/install/gripper_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/gripper_control build --build-base /home/mwangala/Desktop/__ROS2/build/gripper_control/build install --record /home/mwangala/Desktop/__ROS2/build/gripper_control/install.log --single-version-externally-managed install_data

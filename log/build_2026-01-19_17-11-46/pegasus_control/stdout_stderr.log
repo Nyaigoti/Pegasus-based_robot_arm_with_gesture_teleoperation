@@ -1,0 +1,16 @@
+running develop
+running egg_info
+writing pegasus_control.egg-info/PKG-INFO
+writing dependency_links to pegasus_control.egg-info/dependency_links.txt
+writing entry points to pegasus_control.egg-info/entry_points.txt
+writing requirements to pegasus_control.egg-info/requires.txt
+writing top-level names to pegasus_control.egg-info/top_level.txt
+reading manifest file 'pegasus_control.egg-info/SOURCES.txt'
+writing manifest file 'pegasus_control.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages/pegasus-control.egg-link (link to .)
+Installing gui script to /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/pegasus_control
+Installing headless script to /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/pegasus_control
+
+Installed /home/mwangala/Desktop/__ROS2/build/pegasus_control
+running symlink_data

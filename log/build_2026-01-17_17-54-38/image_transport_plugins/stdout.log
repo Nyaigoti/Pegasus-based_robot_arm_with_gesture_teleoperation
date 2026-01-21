@@ -1,0 +1,35 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/mwangala/Desktop/__ROS2/build/image_transport_plugins
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/mwangala/Desktop/__ROS2/install/image_transport_plugins/share/ament_index/resource_index/package_run_dependencies/image_transport_plugins
+-- Symlinking: /home/mwangala/Desktop/__ROS2/install/image_transport_plugins/share/ament_index/resource_index/parent_prefix_path/image_transport_plugins
+-- Symlinking: /home/mwangala/Desktop/__ROS2/install/image_transport_plugins/share/image_transport_plugins/environment/ament_prefix_path.sh
+-- Symlinking: /home/mwangala/Desktop/__ROS2/install/image_transport_plugins/share/image_transport_plugins/environment/ament_prefix_path.dsv
+-- Symlinking: /home/mwangala/Desktop/__ROS2/install/image_transport_plugins/share/image_transport_plugins/environment/path.sh
+-- Symlinking: /home/mwangala/Desktop/__ROS2/install/image_transport_plugins/share/image_transport_plugins/environment/path.dsv
+-- Symlinking: /home/mwangala/Desktop/__ROS2/install/image_transport_plugins/share/image_transport_plugins/local_setup.bash
+-- Symlinking: /home/mwangala/Desktop/__ROS2/install/image_transport_plugins/share/image_transport_plugins/local_setup.sh
+-- Symlinking: /home/mwangala/Desktop/__ROS2/install/image_transport_plugins/share/image_transport_plugins/local_setup.zsh
+-- Symlinking: /home/mwangala/Desktop/__ROS2/install/image_transport_plugins/share/image_transport_plugins/local_setup.dsv
+-- Symlinking: /home/mwangala/Desktop/__ROS2/install/image_transport_plugins/share/image_transport_plugins/package.dsv
+-- Symlinking: /home/mwangala/Desktop/__ROS2/install/image_transport_plugins/share/ament_index/resource_index/packages/image_transport_plugins
+-- Symlinking: /home/mwangala/Desktop/__ROS2/install/image_transport_plugins/share/image_transport_plugins/cmake/image_transport_pluginsConfig.cmake
+-- Symlinking: /home/mwangala/Desktop/__ROS2/install/image_transport_plugins/share/image_transport_plugins/cmake/image_transport_pluginsConfig-version.cmake
+-- Symlinking: /home/mwangala/Desktop/__ROS2/install/image_transport_plugins/share/image_transport_plugins/package.xml

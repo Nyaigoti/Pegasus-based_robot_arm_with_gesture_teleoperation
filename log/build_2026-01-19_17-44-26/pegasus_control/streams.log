@@ -1,0 +1,18 @@
+[6.284s] Invoking command in '/home/mwangala/Desktop/__ROS2/build/pegasus_control': PYTHONPATH=/home/mwangala/Desktop/__ROS2/build/pegasus_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mwangala/Desktop/__ROS2/build/pegasus_control/build --no-deps symlink_data
+[6.662s] running develop
+[7.082s] running egg_info
+[7.083s] writing pegasus_control.egg-info/PKG-INFO
+[7.867s] writing dependency_links to pegasus_control.egg-info/dependency_links.txt
+[9.794s] writing entry points to pegasus_control.egg-info/entry_points.txt
+[9.803s] writing requirements to pegasus_control.egg-info/requires.txt
+[9.807s] writing top-level names to pegasus_control.egg-info/top_level.txt
+[9.819s] reading manifest file 'pegasus_control.egg-info/SOURCES.txt'
+[9.870s] writing manifest file 'pegasus_control.egg-info/SOURCES.txt'
+[9.874s] running build_ext
+[9.874s] Creating /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages/pegasus-control.egg-link (link to .)
+[9.877s] Installing gui script to /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/pegasus_control
+[9.880s] Installing headless script to /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/pegasus_control
+[9.880s] 
+[9.880s] Installed /home/mwangala/Desktop/__ROS2/build/pegasus_control
+[9.880s] running symlink_data
+[10.138s] Invoked command in '/home/mwangala/Desktop/__ROS2/build/pegasus_control' returned '0': PYTHONPATH=/home/mwangala/Desktop/__ROS2/build/pegasus_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mwangala/Desktop/__ROS2/build/pegasus_control/build --no-deps symlink_data

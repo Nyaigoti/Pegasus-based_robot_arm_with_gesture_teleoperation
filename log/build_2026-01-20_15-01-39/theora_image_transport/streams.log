@@ -1,0 +1,174 @@
+[0.479s] Invoking command in '/home/mwangala/Desktop/__ROS2/build/theora_image_transport': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_franka_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_pegasus_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws/install/cv_franka_bridge:/opt/ros/humble /usr/bin/cmake /home/mwangala/Desktop/__ROS2/src/image_transport_plugins/theora_image_transport -DCMAKE_INSTALL_PREFIX=/home/mwangala/Desktop/__ROS2/install/theora_image_transport
+[1.540s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.103s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[4.941s] -- Found image_transport: 3.1.11 (/opt/ros/humble/share/image_transport/cmake)
+[10.756s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[11.138s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[13.605s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[13.784s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[15.459s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[16.419s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[16.443s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[17.436s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[18.447s] -- Found cv_bridge: 3.2.1 (/opt/ros/humble/share/cv_bridge/cmake)
+[18.505s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[19.538s] -- Found ament_cmake_cppcheck: 0.12.12 (/opt/ros/humble/share/ament_cmake_cppcheck/cmake)
+[19.648s] -- Found ament_cmake_cpplint: 0.12.12 (/opt/ros/humble/share/ament_cmake_cpplint/cmake)
+[19.668s] -- Found ament_cmake_uncrustify: 0.12.12 (/opt/ros/humble/share/ament_cmake_uncrustify/cmake)
+[19.670s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[20.657s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[20.933s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[20.971s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[20.996s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[20.996s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[20.996s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[22.545s] -- Found ament_cmake_flake8: 0.12.12 (/opt/ros/humble/share/ament_cmake_flake8/cmake)
+[22.545s] -- Found ament_cmake_pep257: 0.12.12 (/opt/ros/humble/share/ament_cmake_pep257/cmake)
+[22.595s] -- Configuring done
+[23.692s] -- Generating done
+[23.738s] -- Build files have been written to: /home/mwangala/Desktop/__ROS2/build/theora_image_transport
+[23.753s] Invoked command in '/home/mwangala/Desktop/__ROS2/build/theora_image_transport' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_franka_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_pegasus_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws/install/cv_franka_bridge:/opt/ros/humble /usr/bin/cmake /home/mwangala/Desktop/__ROS2/src/image_transport_plugins/theora_image_transport -DCMAKE_INSTALL_PREFIX=/home/mwangala/Desktop/__ROS2/install/theora_image_transport
+[23.756s] Invoking command in '/home/mwangala/Desktop/__ROS2/build/theora_image_transport': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_franka_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_pegasus_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws/install/cv_franka_bridge:/opt/ros/humble /usr/bin/cmake --build /home/mwangala/Desktop/__ROS2/build/theora_image_transport -- -j8 -l8
+[23.805s] [  2%] Built target theora_image_transport__cpp
+[23.813s] [  2%] Built target ament_cmake_python_symlink_theora_image_transport
+[23.852s] [35m[1mConsolidate compiler generated dependencies of target theora_image_transport__rosidl_generator_c[0m
+[23.857s] [35m[1mConsolidate compiler generated dependencies of target theora_image_transport__rosidl_typesupport_introspection_cpp[0m
+[23.940s] [35m[1mConsolidate compiler generated dependencies of target theora_image_transport__rosidl_typesupport_fastrtps_cpp[0m
+[23.941s] [35m[1mConsolidate compiler generated dependencies of target theora_image_transport__rosidl_typesupport_cpp[0m
+[23.983s] [ 10%] Built target theora_image_transport__rosidl_typesupport_introspection_cpp
+[24.006s] [ 18%] Built target theora_image_transport__rosidl_typesupport_fastrtps_cpp
+[24.033s] running egg_info
+[24.034s] writing theora_image_transport.egg-info/PKG-INFO
+[24.049s] [ 27%] Built target theora_image_transport__rosidl_generator_c
+[24.060s] [ 35%] Built target theora_image_transport__rosidl_typesupport_cpp
+[24.089s] [35m[1mConsolidate compiler generated dependencies of target theora_image_transport__rosidl_typesupport_c[0m
+[24.099s] writing dependency_links to theora_image_transport.egg-info/dependency_links.txt
+[24.137s] [35m[1mConsolidate compiler generated dependencies of target theora_image_transport__rosidl_typesupport_introspection_c[0m
+[24.154s] [ 43%] Built target theora_image_transport__rosidl_typesupport_c
+[24.246s] writing top-level names to theora_image_transport.egg-info/top_level.txt
+[24.246s] [35m[1mConsolidate compiler generated dependencies of target theora_image_transport__rosidl_typesupport_fastrtps_c[0m
+[24.252s] reading manifest file 'theora_image_transport.egg-info/SOURCES.txt'
+[24.329s] [35m[1mConsolidate compiler generated dependencies of target ogg_saver[0m
+[24.346s] writing manifest file 'theora_image_transport.egg-info/SOURCES.txt'
+[24.463s] [ 51%] Built target theora_image_transport__rosidl_typesupport_introspection_c
+[24.506s] [ 59%] Built target theora_image_transport__rosidl_typesupport_fastrtps_c
+[24.539s] [ 59%] Built target theora_image_transport
+[24.569s] [ 59%] Built target ament_cmake_python_build_theora_image_transport_egg
+[24.574s] [ 62%] Built target theora_image_transport__py
+[24.703s] [35m[1mConsolidate compiler generated dependencies of target theora_image_transport_component[0m
+[24.744s] [35m[1mConsolidate compiler generated dependencies of target theora_image_transport__rosidl_generator_py[0m
+[24.845s] [ 67%] Built target ogg_saver
+[24.946s] [ 72%] Built target theora_image_transport__rosidl_generator_py
+[24.992s] [35m[1mConsolidate compiler generated dependencies of target theora_image_transport__rosidl_typesupport_fastrtps_c__pyext[0m
+[25.035s] [ 83%] Built target theora_image_transport_component
+[25.082s] [35m[1mConsolidate compiler generated dependencies of target theora_image_transport__rosidl_typesupport_c__pyext[0m
+[25.084s] [35m[1mConsolidate compiler generated dependencies of target theora_image_transport__rosidl_typesupport_introspection_c__pyext[0m
+[26.603s] [ 89%] Built target theora_image_transport__rosidl_typesupport_fastrtps_c__pyext
+[26.608s] [ 94%] Built target theora_image_transport__rosidl_typesupport_c__pyext
+[26.708s] [100%] Built target theora_image_transport__rosidl_typesupport_introspection_c__pyext
+[26.727s] Invoked command in '/home/mwangala/Desktop/__ROS2/build/theora_image_transport' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_franka_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_pegasus_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws/install/cv_franka_bridge:/opt/ros/humble /usr/bin/cmake --build /home/mwangala/Desktop/__ROS2/build/theora_image_transport -- -j8 -l8
+[26.829s] Invoking command in '/home/mwangala/Desktop/__ROS2/build/theora_image_transport': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_franka_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_pegasus_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws/install/cv_franka_bridge:/opt/ros/humble /usr/bin/cmake --install /home/mwangala/Desktop/__ROS2/build/theora_image_transport
+[26.841s] -- Install configuration: ""
+[26.843s] -- Execute custom install script
+[26.843s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/ament_index/resource_index/rosidl_interfaces/theora_image_transport
+[26.843s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/include/theora_image_transport/theora_image_transport/msg/detail/packet__functions.h
+[26.844s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/include/theora_image_transport/theora_image_transport/msg/detail/packet__struct.h
+[26.844s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/include/theora_image_transport/theora_image_transport/msg/detail/packet__type_support.h
+[26.844s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/include/theora_image_transport/theora_image_transport/msg/packet.h
+[26.844s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/include/theora_image_transport/theora_image_transport/msg/rosidl_generator_c__visibility_control.h
+[26.844s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/environment/library_path.sh
+[26.845s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/environment/library_path.dsv
+[26.845s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/include/theora_image_transport/theora_image_transport/msg/detail/packet__rosidl_typesupport_fastrtps_c.h
+[26.845s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/include/theora_image_transport/theora_image_transport/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[26.846s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/include/theora_image_transport/theora_image_transport/msg/detail/packet__builder.hpp
+[26.846s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/include/theora_image_transport/theora_image_transport/msg/detail/packet__struct.hpp
+[26.846s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/include/theora_image_transport/theora_image_transport/msg/detail/packet__traits.hpp
+[26.846s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/include/theora_image_transport/theora_image_transport/msg/detail/packet__type_support.hpp
+[26.846s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/include/theora_image_transport/theora_image_transport/msg/packet.hpp
+[26.846s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/include/theora_image_transport/theora_image_transport/msg/rosidl_generator_cpp__visibility_control.hpp
+[26.847s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/include/theora_image_transport/theora_image_transport/msg/detail/packet__rosidl_typesupport_fastrtps_cpp.hpp
+[26.847s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/include/theora_image_transport/theora_image_transport/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[26.847s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/include/theora_image_transport/theora_image_transport/msg/detail/packet__rosidl_typesupport_introspection_c.h
+[26.847s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/include/theora_image_transport/theora_image_transport/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[26.847s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/include/theora_image_transport/theora_image_transport/msg/detail/packet__rosidl_typesupport_introspection_cpp.hpp
+[26.847s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/environment/pythonpath.sh
+[26.848s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/environment/pythonpath.dsv
+[26.848s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/local/lib/python3.10/dist-packages/theora_image_transport-2.5.4-py3.10.egg-info/PKG-INFO
+[26.848s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/local/lib/python3.10/dist-packages/theora_image_transport-2.5.4-py3.10.egg-info/SOURCES.txt
+[26.848s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/local/lib/python3.10/dist-packages/theora_image_transport-2.5.4-py3.10.egg-info/dependency_links.txt
+[26.848s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/local/lib/python3.10/dist-packages/theora_image_transport-2.5.4-py3.10.egg-info/top_level.txt
+[26.848s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/local/lib/python3.10/dist-packages/theora_image_transport/__init__.py
+[26.848s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/local/lib/python3.10/dist-packages/theora_image_transport/_theora_image_transport_s.ep.rosidl_typesupport_c.c
+[26.848s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/local/lib/python3.10/dist-packages/theora_image_transport/_theora_image_transport_s.ep.rosidl_typesupport_fastrtps_c.c
+[26.849s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/local/lib/python3.10/dist-packages/theora_image_transport/_theora_image_transport_s.ep.rosidl_typesupport_introspection_c.c
+[26.849s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/local/lib/python3.10/dist-packages/theora_image_transport/libtheora_image_transport__rosidl_generator_py.so
+[26.849s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/local/lib/python3.10/dist-packages/theora_image_transport/msg/__init__.py
+[26.849s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/local/lib/python3.10/dist-packages/theora_image_transport/msg/_packet.py
+[26.849s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/local/lib/python3.10/dist-packages/theora_image_transport/msg/_packet_s.c
+[26.849s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/local/lib/python3.10/dist-packages/theora_image_transport/theora_image_transport_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[26.849s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/local/lib/python3.10/dist-packages/theora_image_transport/theora_image_transport_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[26.849s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/local/lib/python3.10/dist-packages/theora_image_transport/theora_image_transport_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[26.849s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/local/lib/python3.10/dist-packages/theora_image_transport/theora_image_transport_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[26.850s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/local/lib/python3.10/dist-packages/theora_image_transport/theora_image_transport_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[26.850s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/local/lib/python3.10/dist-packages/theora_image_transport/theora_image_transport_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[26.850s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/msg/Packet.idl
+[26.850s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/msg/Packet.msg
+[26.850s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/lib/theora_image_transport/ogg_saver
+[26.850s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/include/theora_image_transport/theora_image_transport/theora_publisher.h
+[26.850s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/include/theora_image_transport/theora_image_transport/theora_subscriber.h
+[26.850s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport//theora_plugins.xml
+[26.850s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/ament_index/resource_index/package_run_dependencies/theora_image_transport
+[26.851s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/ament_index/resource_index/parent_prefix_path/theora_image_transport
+[26.851s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/environment/ament_prefix_path.sh
+[26.851s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/environment/ament_prefix_path.dsv
+[26.851s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/environment/path.sh
+[26.851s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/environment/path.dsv
+[26.851s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/local_setup.bash
+[26.851s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/local_setup.sh
+[26.851s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/local_setup.zsh
+[26.852s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/local_setup.dsv
+[26.852s] -- Symlinking: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/package.dsv
+[26.867s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/ament_index/resource_index/packages/theora_image_transport
+[26.867s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/ament_index/resource_index/image_transport__pluginlib__plugin/theora_image_transport
+[26.867s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/cmake/rosidl_cmake-extras.cmake
+[26.868s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/cmake/ament_cmake_export_dependencies-extras.cmake
+[26.868s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/cmake/ament_cmake_export_include_directories-extras.cmake
+[26.868s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/cmake/ament_cmake_export_libraries-extras.cmake
+[26.868s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/cmake/ament_cmake_export_targets-extras.cmake
+[26.868s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[26.868s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[26.868s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/cmake/theora_image_transportConfig.cmake
+[26.868s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/cmake/theora_image_transportConfig-version.cmake
+[26.868s] -- Up-to-date symlink: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/package.xml
+[27.042s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/lib/libtheora_image_transport__rosidl_generator_c.so
+[27.077s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/lib/libtheora_image_transport__rosidl_typesupport_fastrtps_c.so
+[27.085s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/lib/libtheora_image_transport__rosidl_typesupport_fastrtps_cpp.so
+[27.086s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/lib/libtheora_image_transport__rosidl_typesupport_introspection_c.so
+[27.090s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/lib/libtheora_image_transport__rosidl_typesupport_c.so
+[27.108s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/lib/libtheora_image_transport__rosidl_typesupport_introspection_cpp.so
+[27.113s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/lib/libtheora_image_transport__rosidl_typesupport_cpp.so
+[27.222s] Listing '/home/mwangala/Desktop/__ROS2/install/theora_image_transport/local/lib/python3.10/dist-packages/theora_image_transport'...
+[27.222s] Compiling '/home/mwangala/Desktop/__ROS2/install/theora_image_transport/local/lib/python3.10/dist-packages/theora_image_transport/__init__.py'...
+[27.222s] Listing '/home/mwangala/Desktop/__ROS2/install/theora_image_transport/local/lib/python3.10/dist-packages/theora_image_transport/msg'...
+[27.535s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/lib/libtheora_image_transport__rosidl_generator_py.so
+[27.639s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/lib/libtheora_image_transport_component.so
+[27.675s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/cmake/export_theora_image_transport__rosidl_generator_cExport.cmake
+[27.675s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/cmake/export_theora_image_transport__rosidl_generator_cExport-noconfig.cmake
+[27.691s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/cmake/export_theora_image_transport__rosidl_typesupport_fastrtps_cExport.cmake
+[27.691s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/cmake/export_theora_image_transport__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[27.691s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/cmake/export_theora_image_transport__rosidl_generator_cppExport.cmake
+[27.713s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/cmake/export_theora_image_transport__rosidl_typesupport_fastrtps_cppExport.cmake
+[27.713s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/cmake/export_theora_image_transport__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[27.714s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/cmake/theora_image_transport__rosidl_typesupport_introspection_cExport.cmake
+[27.714s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/cmake/theora_image_transport__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[27.717s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/cmake/theora_image_transport__rosidl_typesupport_cExport.cmake
+[27.717s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/cmake/theora_image_transport__rosidl_typesupport_cExport-noconfig.cmake
+[27.718s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/cmake/theora_image_transport__rosidl_typesupport_introspection_cppExport.cmake
+[27.718s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/cmake/theora_image_transport__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[27.719s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/cmake/theora_image_transport__rosidl_typesupport_cppExport.cmake
+[27.719s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/cmake/theora_image_transport__rosidl_typesupport_cppExport-noconfig.cmake
+[27.721s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/cmake/export_theora_image_transport__rosidl_generator_pyExport.cmake
+[27.721s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/cmake/export_theora_image_transport__rosidl_generator_pyExport-noconfig.cmake
+[27.723s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/cmake/export_theora_image_transport_componentExport.cmake
+[27.723s] -- Up-to-date: /home/mwangala/Desktop/__ROS2/install/theora_image_transport/share/theora_image_transport/cmake/export_theora_image_transport_componentExport-noconfig.cmake
+[27.820s] Invoked command in '/home/mwangala/Desktop/__ROS2/build/theora_image_transport' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_franka_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws2/install/cv_pegasus_bridge:/home/mwangala/Desktop/Goaty/ros_project_ws/install/handcv:/home/mwangala/Desktop/Goaty/ros_project_ws/install/cv_franka_bridge:/opt/ros/humble /usr/bin/cmake --install /home/mwangala/Desktop/__ROS2/build/theora_image_transport

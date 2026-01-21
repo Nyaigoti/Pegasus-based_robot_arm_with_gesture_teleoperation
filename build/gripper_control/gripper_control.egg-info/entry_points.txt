@@ -1,0 +1,3 @@
+[console_scripts]
+gripper_node = gripper_control.gripper_node:main
+

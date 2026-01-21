@@ -1,0 +1,8 @@
+{
+  "package_name": "hand_interfaces",
+  "non_idl_tuples": [
+    "/home/mwangala/Desktop/__ROS2/src/hand_interfaces:srv/HandPose.srv",
+    "/home/mwangala/Desktop/__ROS2/src/hand_interfaces:msg/FingerData.msg",
+    "/home/mwangala/Desktop/__ROS2/src/hand_interfaces:msg/Pinch.msg"
+  ]
+}

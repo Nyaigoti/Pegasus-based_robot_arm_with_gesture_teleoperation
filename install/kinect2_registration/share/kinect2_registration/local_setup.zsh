@@ -1,0 +1,1 @@
+/home/mwangala/Desktop/__ROS2/build/kinect2_registration/ament_cmake_environment_hooks/local_setup.zsh

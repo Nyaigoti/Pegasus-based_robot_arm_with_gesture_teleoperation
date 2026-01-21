@@ -1,0 +1,1 @@
+/home/mwangala/Desktop/__ROS2/build/theora_image_transport/rosidl_generator_py/theora_image_transport/_theora_image_transport_s.ep.rosidl_typesupport_fastrtps_c.c

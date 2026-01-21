@@ -1,0 +1,1 @@
+/home/mwangala/Desktop/__ROS2/build/hand_interfaces/rosidl_typesupport_introspection_c/hand_interfaces/msg/detail/pinch__rosidl_typesupport_introspection_c.h

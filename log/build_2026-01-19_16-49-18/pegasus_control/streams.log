@@ -1,0 +1,20 @@
+[7.507s] Invoking command in '/home/mwangala/Desktop/__ROS2/build/pegasus_control': PYTHONPATH=/home/mwangala/Desktop/__ROS2/build/pegasus_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mwangala/Desktop/__ROS2/build/pegasus_control/build --no-deps symlink_data --force
+[8.129s] running develop
+[8.130s] running egg_info
+[8.130s] writing pegasus_control.egg-info/PKG-INFO
+[8.130s] writing dependency_links to pegasus_control.egg-info/dependency_links.txt
+[8.130s] writing entry points to pegasus_control.egg-info/entry_points.txt
+[8.130s] writing requirements to pegasus_control.egg-info/requires.txt
+[8.131s] writing top-level names to pegasus_control.egg-info/top_level.txt
+[8.131s] reading manifest file 'pegasus_control.egg-info/SOURCES.txt'
+[8.131s] writing manifest file 'pegasus_control.egg-info/SOURCES.txt'
+[8.131s] running build_ext
+[8.131s] Creating /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages/pegasus-control.egg-link (link to .)
+[8.131s] Installing gui script to /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/pegasus_control
+[8.131s] Installing headless script to /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/pegasus_control
+[8.131s] 
+[8.131s] Installed /home/mwangala/Desktop/__ROS2/build/pegasus_control
+[8.132s] running symlink_data
+[8.132s] symbolically linking /home/mwangala/Desktop/__ROS2/build/pegasus_control/resource/pegasus_control -> /home/mwangala/Desktop/__ROS2/install/pegasus_control/share/ament_index/resource_index/packages
+[8.132s] symbolically linking /home/mwangala/Desktop/__ROS2/build/pegasus_control/package.xml -> /home/mwangala/Desktop/__ROS2/install/pegasus_control/share/pegasus_control
+[8.301s] Invoked command in '/home/mwangala/Desktop/__ROS2/build/pegasus_control' returned '0': PYTHONPATH=/home/mwangala/Desktop/__ROS2/build/pegasus_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mwangala/Desktop/__ROS2/build/pegasus_control/build --no-deps symlink_data --force

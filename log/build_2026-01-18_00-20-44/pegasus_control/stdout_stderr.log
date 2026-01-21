@@ -1,0 +1,47 @@
+running develop
+Removing /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages/pegasus-control.egg-link (link to .)
+running egg_info
+writing ../../build/pegasus_control/pegasus_control.egg-info/PKG-INFO
+writing dependency_links to ../../build/pegasus_control/pegasus_control.egg-info/dependency_links.txt
+writing entry points to ../../build/pegasus_control/pegasus_control.egg-info/entry_points.txt
+writing requirements to ../../build/pegasus_control/pegasus_control.egg-info/requires.txt
+writing top-level names to ../../build/pegasus_control/pegasus_control.egg-info/top_level.txt
+reading manifest file '../../build/pegasus_control/pegasus_control.egg-info/SOURCES.txt'
+writing manifest file '../../build/pegasus_control/pegasus_control.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/mwangala/Desktop/__ROS2/build/pegasus_control/build
+creating /home/mwangala/Desktop/__ROS2/build/pegasus_control/build/lib
+creating /home/mwangala/Desktop/__ROS2/build/pegasus_control/build/lib/pegasus_control
+copying pegasus_control/__init__.py -> /home/mwangala/Desktop/__ROS2/build/pegasus_control/build/lib/pegasus_control
+copying pegasus_control/headless_node.py -> /home/mwangala/Desktop/__ROS2/build/pegasus_control/build/lib/pegasus_control
+copying pegasus_control/pegasus_commander.py -> /home/mwangala/Desktop/__ROS2/build/pegasus_control/build/lib/pegasus_control
+copying pegasus_control/socket_server.py -> /home/mwangala/Desktop/__ROS2/build/pegasus_control/build/lib/pegasus_control
+creating /home/mwangala/Desktop/__ROS2/build/pegasus_control/build/lib/pegasus_control/gui
+copying pegasus_control/gui/__init__.py -> /home/mwangala/Desktop/__ROS2/build/pegasus_control/build/lib/pegasus_control/gui
+copying pegasus_control/gui/gui_node.py -> /home/mwangala/Desktop/__ROS2/build/pegasus_control/build/lib/pegasus_control/gui
+running install
+running install_lib
+creating /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages/pegasus_control
+copying /home/mwangala/Desktop/__ROS2/build/pegasus_control/build/lib/pegasus_control/__init__.py -> /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages/pegasus_control
+creating /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages/pegasus_control/gui
+copying /home/mwangala/Desktop/__ROS2/build/pegasus_control/build/lib/pegasus_control/gui/__init__.py -> /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages/pegasus_control/gui
+copying /home/mwangala/Desktop/__ROS2/build/pegasus_control/build/lib/pegasus_control/gui/gui_node.py -> /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages/pegasus_control/gui
+copying /home/mwangala/Desktop/__ROS2/build/pegasus_control/build/lib/pegasus_control/headless_node.py -> /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages/pegasus_control
+copying /home/mwangala/Desktop/__ROS2/build/pegasus_control/build/lib/pegasus_control/pegasus_commander.py -> /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages/pegasus_control
+copying /home/mwangala/Desktop/__ROS2/build/pegasus_control/build/lib/pegasus_control/socket_server.py -> /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages/pegasus_control
+byte-compiling /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages/pegasus_control/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages/pegasus_control/gui/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages/pegasus_control/gui/gui_node.py to gui_node.cpython-310.pyc
+byte-compiling /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages/pegasus_control/headless_node.py to headless_node.cpython-310.pyc
+byte-compiling /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages/pegasus_control/pegasus_commander.py to pegasus_commander.cpython-310.pyc
+byte-compiling /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages/pegasus_control/socket_server.py to socket_server.cpython-310.pyc
+running install_data
+copying resource/pegasus_control -> /home/mwangala/Desktop/__ROS2/install/pegasus_control/share/ament_index/resource_index/packages
+copying package.xml -> /home/mwangala/Desktop/__ROS2/install/pegasus_control/share/pegasus_control
+running install_egg_info
+Copying ../../build/pegasus_control/pegasus_control.egg-info to /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/python3.10/site-packages/pegasus_control-0.0.1-py3.10.egg-info
+running install_scripts
+Installing gui script to /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/pegasus_control
+Installing headless script to /home/mwangala/Desktop/__ROS2/install/pegasus_control/lib/pegasus_control
+writing list of installed files to '/home/mwangala/Desktop/__ROS2/build/pegasus_control/install.log'
