@@ -39,6 +39,8 @@ This is a ROS 2 system for observing and controlling a Pegasus-based robot arm u
       ![WhatsApp Image 2026-02-16 at 12 52 47](https://github.com/user-attachments/assets/09bd02b3-5a66-427e-bae4-f0d338b38c4d)
       
     *   Depth Camera (Microsoft Kinect v2)
+ 
+  
       ![kinect](https://github.com/user-attachments/assets/baa6efb7-2c3a-42d5-b462-c2a1ff67cb66)
 
 
@@ -77,11 +79,16 @@ sudo apt install ros-$ROS_DISTRO-cv-bridge ros-$ROS_DISTRO-image-transport ros-$
 1.  **Vision Layer**: The
  `kinect2_bridge` package captures depth and color images through Kinect v2 camera, and sends them to `handcv` package to processes them with MediaPipe to find hand landmarks, and publishes the hand's 3D position.
 <img width="893" height="425" alt="Screenshot from 2026-02-16 12-54-53" src="https://github.com/user-attachments/assets/1697d095-15cc-4ab0-bbc7-fa603b4e5428" />
+
 3.  **Bridge Layer**: `cv_pegasus_bridge` subscribes to hand coordinates and translates them into a coordinate frame relative to the robot base.
 4.  **Control Layer**: `pegasus_control` receives target coordinates, performs Inverse Kinematics (IK), and sends joint angle commands to the hardware interface.
-5.  **Hardware Layer**: ST3215 Servo Driver integrated with ESP32 receives joint angles and drives the physical servos motors.
-![WhatsApp Image 2026-02-16 at 12 57 39](https://github.com/user-attachments/assets/bac34f31-440d-46e1-b909-d27c6255978f)
-![WhatsApp Image 2026-02-16 at 12 56 53](https://github.com/user-attachments/assets/4af149b3-0b45-41fa-8240-355105b96f62)
+5.  **Hardware Layer**: ST3215 Servo Driver 
+integrated with ESP32 receives joint angles and drives the physical servos motors.
+![WhatsApp Image 2026-02-16 at 12 56 53](https://github.com/user-attachments/assets/8d5b76b5-aa12-4da4-a905-4d40806d21ba)
+
+
+![WhatsApp Image 2026-02-16 at 12 57 39](https://github.com/user-attachments/assets/5596df9d-791c-4914-a914-84c46bc31132)
+
 
 
 
