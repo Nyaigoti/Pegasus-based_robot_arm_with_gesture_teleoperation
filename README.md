@@ -1,5 +1,5 @@
 # Pegasus Robot Arm with Gesture Teleoperation
-![alt text](image.png)
+![alt text](/images/image.png)
 This is a ROS 2 system for observing and controlling a Pegasus-based robot arm using hand gesture teleoperation. This project integrates computer vision through Google mediapipe and a Kinect V2 camera to track hand movements and map them to robot arm joint trajectories in real-time.
 
 ## 🚀 Features
@@ -70,9 +70,11 @@ sudo apt install ros-$ROS_DISTRO-cv-bridge ros-$ROS_DISTRO-image-transport ros-$
 
 ## 🤖 Architecture
 
-1.  **Vision Layer**: The `kinect2_bridge` package captures depth and color images through Kinect v2 camera, and sends them to `handcv` package to processes them with MediaPipe to find hand landmarks, and publishes the hand's 3D position.
-2.  **Bridge Layer**: `cv_pegasus_bridge` subscribes to hand coordinates and translates them into a coordinate frame relative to the robot base.
-3.  **Control Layer**: `pegasus_control` receives target coordinates, performs Inverse Kinematics (IK), and sends joint angle commands to the hardware interface.
-4.  **Hardware Layer**: The Arduino (or simulator) receives joint angles and drives the physical servos/steppers.
+1.  **Vision Layer**: The
+ `kinect2_bridge` package captures depth and color images through Kinect v2 camera, and sends them to `handcv` package to processes them with MediaPipe to find hand landmarks, and publishes the hand's 3D position.
+![kinect](https://github.com/user-attachments/assets/fb6dbcc0-8bd2-42c4-99d6-c577682c76d5)
+3.  **Bridge Layer**: `cv_pegasus_bridge` subscribes to hand coordinates and translates them into a coordinate frame relative to the robot base.
+4.  **Control Layer**: `pegasus_control` receives target coordinates, performs Inverse Kinematics (IK), and sends joint angle commands to the hardware interface.
+5.  **Hardware Layer**: The Arduino (or simulator) receives joint angles and drives the physical servos/steppers.
 
 
